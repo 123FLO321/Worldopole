@@ -1,1547 +1,1547 @@
 {
   "pokemon": {
     "1": {
-      "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+      "description": "A Bulbasaur es fácil verle echándose una siesta al sol. La semilla que tiene en el lomo va creciendo cada vez más a medida que absorbe los rayos del sol.",
       "name": "Bulbasaur"
     },
     "2": {
-      "description": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+      "description": "Este Pokémon lleva un bulbo en el lomo y, para poder con su peso, tiene unas patas y un tronco gruesos y fuertes. Si empieza a pasar más tiempo al sol, será porque el bulbo está a punto de hacerse una flor grande.",
       "name": "Ivysaur"
     },
     "3": {
-      "description": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+      "description": "Venusaur tiene una flor enorme en el lomo que, según parece, adquiere unos colores muy vivos si está bien nutrido y le da mucho el sol. El aroma delicado de la flor tiene un efecto relajante en el ánimo de las personas.",
       "name": "Venusaur"
     },
     "4": {
-      "description": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+      "description": "La llama que tiene en la punta de la cola arde según sus sentimientos. Llamea levemente cuando está alegre y arde vigorosamente cuando está enfadado.",
       "name": "Charmander"
     },
     "5": {
-      "description": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+      "description": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
       "name": "Charmeleon"
     },
     "6": {
-      "description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+      "description": "Charizard se dedica a volar por los cielos en busca de oponentes fuertes. Echa fuego por la boca y es capaz de derretir cualquier cosa. No obstante, si su rival es más débil que él, no usará este ataque.",
       "name": "Charizard"
     },
     "7": {
-      "description": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+      "description": "El caparazón de Squirtle no le sirve de protección únicamente. Su forma redondeada y las hendiduras que tiene le ayudan a deslizarse en el agua y le permiten nadar a gran velocidad.",
       "name": "Squirtle"
     },
     "8": {
-      "description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+      "description": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
       "name": "Wartortle"
     },
     "9": {
-      "description": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+      "description": "Blastoise lanza chorros de agua con gran precisión por los tubos que le salen del caparazón que tiene en la espalda. Puede disparar chorros de agua con tanta puntería que no fallaría al tirar contra una lata pequeña a 50 m.",
       "name": "Blastoise"
     },
     "10": {
-      "description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
+      "description": "Caterpie tiene un apetito voraz. Es capaz de devorar hojas que superen su tamaño en un abrir y cerrar de ojos. Atención a la antena que tiene: libera un hedor realmente fuerte.",
       "name": "Caterpie"
     },
     "11": {
-      "description": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+      "description": "La capa que recubre el cuerpo de este Pokémon es tan dura como una plancha de hierro. Metapod apenas se mueve. Permanece inmóvil para que las vísceras evolucionen dentro de la coraza que le rodea.",
       "name": "Metapod"
     },
     "12": {
-      "description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+      "description": "Butterfree tiene una habilidad especial para encontrar delicioso polen en las flores. Puede localizar, extraer y transportar polen de flores que estén floreciendo a 10 km de distancia de su nido.",
       "name": "Butterfree"
     },
     "13": {
-      "description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+      "description": "Weedle tiene un finísimo sentido del olfato. Es capaz de distinguir las hojas que le gustan de las que no le gustan olisqueando un poco con la gran nariz que tiene.",
       "name": "Weedle"
     },
     "14": {
-      "description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+      "description": "Kakuna permanece prácticamente inmóvil al encaramarse a los árboles, aunque la actividad interna de su organismo tiene un ritmo frenético, pues se prepara para su evolución. Prueba de esto es la alta temperatura de su caparazón.",
       "name": "Kakuna"
     },
     "15": {
-      "description": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+      "description": "Los Beedrill defienden su territorio a toda costa. No es conveniente acercarse a su colmena, por seguridad. Si se les molesta, todo un enjambre atacará ferozmente.",
       "name": "Beedrill"
     },
     "16": {
-      "description": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+      "description": "Pidgey tiene un sentido de la orientación muy desarrollado. Es capaz de regresar a su nido, por lejos que se encuentre de las zonas que le resultan familiares.",
       "name": "Pidgey"
     },
     "17": {
-      "description": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+      "description": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
       "name": "Pidgeotto"
     },
     "18": {
-      "description": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
+      "description": "El plumaje de este Pokémon es bonito e hipnótico. Muchos Entrenadores se quedan embobados ante la belleza impactante de las plumas que tiene en la cabeza; lo que les lleva a elegir a Pidgeot como su Pokémon.",
       "name": "Pidgeot"
     },
     "19": {
-      "description": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
+      "description": "Rattata es cauto como él solo. Hasta cuando duerme mueve las orejas para oír todos los ruidos. No es nada delicado a la hora de elegir su hábitat. Cualquier sitio es bueno para cavar su madriguera.",
       "name": "Rattata"
     },
     "20": {
-      "description": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+      "description": "A Raticate le crecen los incisivos firmes y fuertes. Para mantenerlos afilados roe troncos y rocas, e incluso las paredes de las casas.",
       "name": "Raticate"
     },
     "21": {
-      "description": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+      "description": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si al agudo chillido le sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
       "name": "Spearow"
     },
     "22": {
-      "description": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+      "description": "A Fearow se le reconoce por tener un pescuezo y un pico largos que le permiten cazar en tierra y agua. Tiene una gran habilidad moviendo el fino pico para atrapar a sus presas.",
       "name": "Fearow"
     },
     "23": {
-      "description": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+      "description": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
       "name": "Ekans"
     },
     "24": {
-      "description": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
+      "description": "Este Pokémon es tremendamente fuerte, puede oprimir cualquier cosa con su cuerpo y hasta es capaz de estrujar un barril de acero. Una vez que Arbok se enrosca a su víctima, no hay forma de escapar de su asfixiante abrazo.",
       "name": "Arbok"
     },
     "25": {
-      "description": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
+      "description": "Este Pokémon tiene unas bolsas en las mejillas donde almacena electricidad. Parece ser que se recargan por la noche, mientras Pikachu duerme. A veces, cuando se acaba de despertar y está aún medio dormido, descarga un poco.",
       "name": "Pikachu"
     },
     "26": {
-      "description": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+      "description": "Este Pokémon libera una débil carga eléctrica por todo su cuerpo que le hace brillar en la oscuridad. Raichu descarga electricidad plantando la cola en el suelo.",
       "name": "Raichu"
     },
     "27": {
-      "description": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
+      "description": "Sandshrew tiene una piel muy seca y tremendamente dura. Tiene la habilidad de hacerse una bola y evitar cualquier ataque. Por las noches, escarba en la arena del desierto y se echa a dormir.",
       "name": "Sandshrew"
     },
     "28": {
-      "description": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+      "description": "Sandslash puede enroscarse y convertirse en una bola de largas púas. En combate, este Pokémon hace retroceder a sus rivales clavándoselas. Acto seguido, aprovecha para echarse sobre ellos y atacarlos con sus afiladas garras.",
       "name": "Sandslash"
     },
     "29": {
-      "description": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+      "description": "Nidoran♀ tiene púas que segregan un veneno muy potente. Se piensa que las desarrolló como protección del cuerpo tan pequeño que tiene. Cuando se enfada, libera una horrible sustancia tóxica por el cuerno.",
       "name": "Nidoran♀"
     },
     "30": {
-      "description": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+      "description": "Cuando están en familia o con sus amigos, esconden las púas para evitar accidentes. Según parece, se alteran bastante si se separan del grupo.",
       "name": "Nidorina"
     },
     "31": {
-      "description": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
+      "description": "Nidoqueen tiene el cuerpo totalmente recubierto de escamas durísimas. Suele lanzar por los aires a sus rivales de los violentos golpes que les propina. Cuando se trata de defender a sus crías, alcanza su nivel máximo de fuerza.",
       "name": "Nidoqueen"
     },
     "32": {
-      "description": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
+      "description": "Nidoran♂ ha desarrollado músculos para mover las orejas y orientarlas en cualquier dirección. De este modo, es capaz de captar hasta el sonido más leve.",
       "name": "Nidoran♂"
     },
     "33": {
-      "description": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+      "description": "Nidorino tiene un cuerno de dureza superior a la del diamante. Si siente una presencia hostil, se le erizan las púas del lomo enseguida y carga contra el enemigo con todas sus fuerzas.",
       "name": "Nidorino"
     },
     "34": {
-      "description": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+      "description": "La gruesa cola de Nidoking encierra una fuerza realmente destructora. Con una vez que la agite, es capaz de tumbar una torre metálica de transmisión. Una vez que este Pokémon se desboca, no hay quien lo pare.",
       "name": "Nidoking"
     },
     "35": {
-      "description": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+      "description": "Siempre que hay luna llena, salen en grupo para jugar. Al amanecer, los Clefairy, agotados, regresan a sus refugios de montaña para dormir acurrucados unos con otros.",
       "name": "Clefairy"
     },
     "36": {
-      "description": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+      "description": "Clefable se mueve dando saltitos como si fuera haciendo uso de las alas. Estos pequeños brincos le permiten caminar por el agua. De todos es sabido que le encanta darse paseos por los lagos en tranquilas noches de luna llena.",
       "name": "Clefable"
     },
     "37": {
-      "description": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled.",
+      "description": "En el interior del cuerpo de Vulpix arde una llama que nunca se extingue. Durante el día, cuando suben las temperaturas, este Pokémon libera llamas por la boca para evitar recalentarse.",
       "name": "Vulpix"
     },
     "38": {
-      "description": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.",
+      "description": "Cuenta la leyenda que Ninetales nació de la fusión de nueve hechiceros que tenían poderes sagrados. Este Pokémon es realmente inteligente. Entiende el lenguaje humano.",
       "name": "Ninetales"
     },
     "39": {
-      "description": "Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+      "description": "Cuando este Pokémon canta, no para nunca para respirar. Si en combate el enemigo no se queda dormido con facilidad, Jigglypuff no podrá respirar y su vida correrá peligro.",
       "name": "Jigglypuff"
     },
     "40": {
-      "description": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away.",
+      "description": "El cuerpo de Wigglytuff es muy flexible. Dicen que, al aspirar aire, puede hincharse sin límites. Y, una vez hinchado, se pone a botar como si fuera una pelota.",
       "name": "Wigglytuff"
     },
     "41": {
-      "description": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+      "description": "Zubat evita la luz del día porque le resulta perjudicial para la salud. Durante el día, permanece en cuevas o bajo los aleros de las casas viejas durmiendo colgado de las patas, cabeza abajo.",
       "name": "Zubat"
     },
     "42": {
-      "description": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
+      "description": "Golbat derriba a sus víctimas mordiéndoles con los cuatro colmillos que tiene y chupándoles la sangre. Solo entra en acción en las noches sin luna. Revolotea en la oscuridad para atacar a Pokémon y personas.",
       "name": "Golbat"
     },
     "43": {
-      "description": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+      "description": "Oddish busca los suelos fértiles y ricos en nutrientes para plantarse en la tierra. Durante el día, se cree que le cambia la forma de los pies y se le empiezan a parecer a las raíces de los árboles.",
       "name": "Oddish"
     },
     "44": {
-      "description": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
+      "description": "Gloom babea un néctar que tiene un olor realmente horrible, aunque parece ser que a él le gusta. De hecho, aspira los gases nocivos y libera más néctar aún.",
       "name": "Gloom"
     },
     "45": {
-      "description": "Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
+      "description": "Vileplume tiene los mayores pétalos del mundo. Los usa para atraer a sus presas y llenarlas de esporas tóxicas. Una vez que ha inmovilizado a las víctimas, las atrapa y las devora.",
       "name": "Vileplume"
     },
     "46": {
-      "description": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life.",
+      "description": "Paras lleva dos setas parásitas a cuestas llamadas tochukaso. Estas crecen alimentándose de los nutrientes de este Pokémon de tipo Bicho y Planta que les sirve de huésped. Las setas se usan como elixir de vida.",
       "name": "Paras"
     },
     "47": {
-      "description": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+      "description": "Parasect es conocido por destruir en plaga grandes árboles, absorbiendo los nutrientes que tienen en la parte baja del tronco y las raíces. Cuando un árbol azotado por la plaga muere, los Parasect van a por el siguiente al instante.",
       "name": "Parasect"
     },
     "48": {
-      "description": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
+      "description": "Dicen que durante su evolución Venonat desarrolló una fina capa de espeso pelo alrededor de todo el cuerpo para protegerse. Tiene unos ojos tan grandes que no hay presa que le pase desapercibida.",
       "name": "Venonat"
     },
     "49": {
-      "description": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+      "description": "Venomoth es nocturno, solo actúa en la oscuridad. Su alimento preferido son los pequeños insectos que se concentran cerca de los focos de luz en la oscuridad de la noche.",
       "name": "Venomoth"
     },
     "50": {
-      "description": "Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+      "description": "En la mayoría de las granjas se suelen criar Diglett por la sencilla razón de que, excaven donde excaven, dejan la tierra perfectamente labrada para sembrar. El terreno queda listo para plantar ricas verduras.",
       "name": "Diglett"
     },
     "51": {
-      "description": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+      "description": "Los Dugtrio son trillizos que se originaron a partir de un solo cuerpo, por eso piensan de la misma forma. A la hora de excavar, trabajan en equipo y sin descanso.",
       "name": "Dugtrio"
     },
     "52": {
-      "description": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
+      "description": "Meowth retrae las afiladas uñas de sus zarpas para caminar a hurtadillas, dando sigilosos pasos para pasar inadvertido. No se sabe muy bien por qué, pero este Pokémon adora las monedas brillantes que resplandecen con la luz.",
       "name": "Meowth"
     },
     "53": {
-      "description": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+      "description": "Persian tiene seis llamativos bigotes que le dan un aspecto feroz. Además, le sirven para detectar el movimiento del aire, delator de la presencia cercana de algún Pokémon. Si se le agarra por los bigotes, se vuelve dócil.",
       "name": "Persian"
     },
     "54": {
-      "description": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+      "description": "Psyduck no se acuerda nunca de haber usado su misterioso poder. Parece ser que no puede registrar en la memoria haber usado el ataque porque se queda inmerso en un estado parecido a un sueño profundo.",
       "name": "Psyduck"
     },
     "55": {
-      "description": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.",
+      "description": "Golduck es el nadador más rápido de los Pokémon. Además, nada sin esfuerzo hasta en aguas turbulentas en plena tormenta. En ocasiones, ha rescatado a náufragos en alta mar.",
       "name": "Golduck"
     },
     "56": {
-      "description": "When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
+      "description": "Cuando Mankey empieza a temblar y a respirar con más intensidad, seguro que va a enfadarse. Aunque prever su enfado no sirve de nada porque alcanza un estado de rabia tan rápido que no hay escapatoria.",
       "name": "Mankey"
     },
     "57": {
-      "description": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+      "description": "Cuando Primeape se enfada, se le acelera el ritmo cardíaco y se le fortalecen los músculos. Con todo, pierde en inteligencia.",
       "name": "Primeape"
     },
     "58": {
-      "description": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
+      "description": "Growlithe tiene un sentido del olfato excepcional y una memoria sensitiva tremenda, nunca olvida una esencia. Este Pokémon saca provecho de este don para identificar las sensaciones que tienen otros seres vivos.",
       "name": "Growlithe"
     },
     "59": {
-      "description": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
+      "description": "Arcanine es conocido por lo veloz que es. Dicen que es capaz de correr 10 000 km en 24 horas. El fuego que arde con vigor en el interior de este Pokémon constituye su fuente de energía.",
       "name": "Arcanine"
     },
     "60": {
-      "description": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+      "description": "Poliwag tiene una piel muy fina. Tanto que es posible entrever a través de la misma las vísceras en espiral que tiene. La piel, aunque fina, tiene la ventaja de ser flexible y hacer rebotar hasta los colmillos más afilados.",
       "name": "Poliwag"
     },
     "61": {
-      "description": "The surface of Poliwhirl's body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+      "description": "La piel de Poliwhirl está siempre húmeda y lubricada con un fluido viscoso. Gracias a esta película resbaladiza, puede escapar de las garras del enemigo, resbalándosele de las zarpas en pleno combate.",
       "name": "Poliwhirl"
     },
     "62": {
-      "description": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
+      "description": "Poliwrath tiene unos músculos fornidos y muy desarrollados, por lo que nunca se agota. Es tan fuerte e incansable que cruzar el océano a nado no le supone ningún esfuerzo.",
       "name": "Poliwrath"
     },
     "63": {
-      "description": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
+      "description": "Abra necesita dormir 18 horas al día. Si no, pierde la habilidad que tiene de usar poderes de telequinesia. Si le atacan, Abra puede escapar usando Teletransporte mientras duerme.",
       "name": "Abra"
     },
     "64": {
-      "description": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
+      "description": "Kadabra lleva siempre una cuchara de plata en la mano, que usa para amplificar las ondas alfa de su cerebro. Dicen que, sin la cuchara, sus poderes de telequinesia se reducen a la mitad.",
       "name": "Kadabra"
     },
     "65": {
-      "description": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
+      "description": "El cerebro de Alakazam siempre está creciendo y el número de neuronas no deja de aumentar. Este Pokémon tiene un cociente intelectual de 5000. Tiene archivado en su memoria todo lo que ha ocurrido en el mundo.",
       "name": "Alakazam"
     },
     "66": {
-      "description": "Machop's muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
+      "description": "Machop se entrena levantando Graveler a modo de pesas. Algunos de estos Pokémon viajan por todo el mundo para aprender distintos tipos de artes marciales.",
       "name": "Machop"
     },
     "67": {
-      "description": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
+      "description": "Machoke realiza sesiones de culturismo todos los días. De entrenamiento le sirven también las veces que ayuda a la gente en tareas de esfuerzo físico. En sus días libres, va al campo o a la montaña para hacer más ejercicio.",
       "name": "Machoke"
     },
     "68": {
-      "description": "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks.",
+      "description": "Machamp es conocido como el Pokémon que domina todas las artes marciales. Si agarra a su rival con los cuatro brazos que tiene, su enemigo no tendrá nada que hacer. El pobre contrincante saldrá volando hasta perderse en el horizonte.",
       "name": "Machamp"
     },
     "69": {
-      "description": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
+      "description": "Bellsprout tiene un cuerpo delgado y flexible que le permite inclinarse y balancearse para esquivar los ataques. Este Pokémon escupe por la boca un fluido corrosivo capaz de hacer que se derrita hasta el hierro.",
       "name": "Bellsprout"
     },
     "70": {
-      "description": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+      "description": "Weepinbell tiene un gancho a modo de extremidad superior trasera, que usa por la noche para colgarse de una rama y echarse a dormir. Si se mueve mientras duerme, puede acabar en el suelo.",
       "name": "Weepinbell"
     },
     "71": {
-      "description": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+      "description": "Victreebel tiene una enredadera que le sale de la cabeza y que agita a modo de señuelo para atraer a sus presas y así engullirlas por sorpresa cuando estas se aproximan incautas.",
       "name": "Victreebel"
     },
     "72": {
-      "description": "Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
+      "description": "Tentacool absorbe luz solar, la refracta a través del agua que tiene en su interior y la convierte en un rayo de energía. Este Pokémon tiene un órgano que parece de cristal sobre los ojos por el cual dispara los rayos.",
       "name": "Tentacool"
     },
     "73": {
-      "description": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it.",
+      "description": "Tentacruel tiene unos tentáculos que puede alargar o acortar. Los usa para atrapar a su presa y debilitarla mediante una sustancia muy tóxica. Puede llegar a atrapar hasta a 80 presas a la vez.",
       "name": "Tentacruel"
     },
     "74": {
-      "description": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always.",
+      "description": "Cuando Geodude duerme profundamente, se entierra a medias en el suelo y no se despierta ni aunque lo pisen sin querer. Por la mañana, se dedica a buscar comida rodando ladera abajo.",
       "name": "Geodude"
     },
     "75": {
-      "description": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis.",
+      "description": "Las piedras son la comida preferida de Graveler. Este Pokémon sube a la cima de las montañas devorando todas las rocas que va encontrando a su paso. Una vez que alcanza la cumbre, baja rodando hasta la falda.",
       "name": "Graveler"
     },
     "76": {
-      "description": "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.",
+      "description": "Golem es conocido por su afición a bajar de las montañas rodando. La gente que vive en la falda de las mismas ha cavado surcos para conducirlo en su descenso por las laderas y evitar que se cuele en sus casas.",
       "name": "Golem"
     },
     "77": {
-      "description": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
+      "description":"Al nacer, Ponyta es muy débil y apenas puede ponerse en pie. Con todo, se va haciendo más fuerte al tropezarse y caerse en su intento por seguir a sus progenitores.",
       "name": "Ponyta"
     },
     "78": {
-      "description": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+      "description": "A Rapidash se le suele ver trotando sin rumbo fijo por los campos y llanos. Cuando tiene que ir a algún sitio en concreto, se le aviva el fuego de las melenas y emprende el galope llameante llegando a los 240 km/h.",
       "name": "Rapidash"
     },
     "79": {
-      "description": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
+      "description": "Slowpoke usa la cola para atrapar a sus presas metiéndola bajo el agua en las riberas de los ríos. Con todo, es olvidadizo, se le puede pasar lo que estaba haciendo y quedarse días enteros holgazaneando en la orilla.",
       "name": "Slowpoke"
     },
     "80": {
-      "description": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+      "description": "Slowbro lleva en la cola un Shellder enganchado, sujeto por los dientes. Como Slowbro no puede usar la cola para pescar, se mete en el agua de mala gana en busca de sus presas.",
       "name": "Slowbro"
     },
     "81": {
-      "description": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
+      "description": "Magnemite flota en el aire emitiendo ondas electromagnéticas, a través de las unidades de las extremidades, que bloquean la gravedad. Si se agota su suministro de electricidad interno, es incapaz de mantenerse flotando.",
       "name": "Magnemite"
     },
     "82": {
-      "description": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
+      "description": "Magneton emite una fuerte energía magnética, fatal para los instrumentos electrónicos y de precisión. Este es el motivo por el que, dicen, mucha gente mantiene a este Pokémon en su Poké Ball.",
       "name": "Magneton"
     },
     "83": {
-      "description": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
+      "description": "Al parecer, entre los puerros que suelen llevar los Farfetch'd, los hay mejores y peores. A estos Pokémon se les ha visto luchar entre ellos por los mejores puerros.",
       "name": "Farfetch'd"
     },
     "84": {
-      "description": "Doduo's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+      "description": "Doduo es un Pokémon bicéfalo de cerebros idénticos. Según un estudio científico, podría darse el extraño caso de que hubiera algún Doduo con cerebros distintos.",
       "name": "Doduo"
     },
     "85": {
-      "description": "Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary—it may decide to peck you.",
+      "description": "Según parece, las cabezas no son las únicas partes del cuerpo que tiene triplicadas. Dodrio también tiene tres corazones y tres pares de pulmones. Con esta constitución, puede correr largas distancias sin cansarse.",
       "name": "Dodrio"
     },
     "86": {
-      "description": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+      "description": "Seel busca a sus presas en aguas heladas, bajo las capas de hielo. Cuando necesita respirar, abre un agujerito en el hielo con la afilada protuberancia que tiene encima de la cabeza.",
       "name": "Seel"
     },
     "87": {
-      "description": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+      "description": "A Dewgong le encanta dormitar sobre la frialdad del hielo. Antiguamente, algún que otro marino lo confundió con una sirena al verlo dormido sobre un glaciar.",
       "name": "Dewgong"
     },
     "88": {
-      "description": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.",
+      "description": "Grimer emergió del lodo que se formó en una zona contaminada en el fondo del mar. A este Pokémon le encanta todo lo que sea suciedad. Emana continuamente por todo el cuerpo un horrible fluido contaminado por bacterias.",
       "name": "Grimer"
     },
     "89": {
-      "description": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.",
+      "description": "A este Pokémon le encanta comer cosas repulsivas. En ciudades sucias en las que la gente tira la basura por la calle, los Muk tienen, sin duda, su punto de encuentro.",
       "name": "Muk"
     },
     "90": {
-      "description": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+      "description": "Por la noche, este Pokémon usa la ancha lengua que tiene para hacer un agujero en el fondo del mar y echarse a dormir. Mientras duerme, Shellder cierra la concha, pero deja la lengua por fuera.",
       "name": "Shellder"
     },
     "91": {
-      "description": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
+      "description": "Cloyster es capaz de nadar por el mar. Su técnica consiste en tragar agua y expulsarla por el conducto que tiene en la parte trasera. Este mismo sistema es el que usa para lanzar los pinchos que tiene alrededor de la concha.",
       "name": "Cloyster"
     },
     "92": {
-      "description": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
+      "description": "Gastly está compuesto en gran medida de materia gaseosa. Cuando hay viento, el aire arrastra parte de esta materia y el Pokémon mengua. Suelen agruparse bajo los aleros de las casas para resguardarse del viento.",
       "name": "Gastly"
     },
     "93": {
-      "description": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+      "description": "Haunter es un Pokémon peligroso. Si se ve alguno flotando en la oscuridad y haciendo señas, conviene no acercarse. Este Pokémon intentará robarle la energía a su presa a base de lametazos.",
       "name": "Haunter"
     },
     "94": {
-      "description": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "description": "Si alguien ve que su sombra le adelanta de repente en una noche oscura, es muy probable que lo que esté viendo no sea su sombra, sino a un Gengar haciéndose pasar por la misma.",
       "name": "Gengar"
     },
     "95": {
-      "description": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+      "description": "Onix tiene un imán en el cerebro, que actúa como una brújula para no perder la orientación cuando está cavando túneles. A medida que crece, se le redondea y suaviza el cuerpo.",
       "name": "Onix"
     },
     "96": {
-      "description": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.",
+      "description": "Si a alguien le pica la nariz mientras duerme, seguro que es porque tiene a uno de estos Pokémon cerca de la almohada intentando sacarle los sueños por la nariz para comérselos.",
       "name": "Drowzee"
     },
     "97": {
-      "description": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
+      "description": "Hypno lleva un péndulo en la mano. El balanceo y el brillo que tiene sumen al rival en un estado de hipnosis profundo. Mientras busca a su presa, saca brillo al péndulo.",
       "name": "Hypno"
     },
     "98": {
-      "description": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+      "description": "Krabby vive en la playa, enterrado en agujeros en la arena. Cuando en las playas de arena fina escasea la comida, es común ver a estos Pokémon echando un pulso panza contra panza en defensa de su territorio.",
       "name": "Krabby"
     },
     "99": {
-      "description": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+      "description": "Kingler tiene una pinza enorme y descomunal que usa agitándola en el aire para comunicarse con otros. Lo malo es que, al pesarle tanto, se cansa enseguida.",
       "name": "Kingler"
     },
     "100": {
-      "description": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.",
+      "description": "Voltorb es tremendamente sensible y a la más mínima sacudida explota. Cuentan que se creó cuando alguien expuso una Poké Ball a una gran descarga eléctrica.",
       "name": "Voltorb"
     },
     "101": {
-      "description": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
+      "description": "Una de las características de Electrode es la atracción que siente hacia la electricidad. Son Pokémon problemáticos que suelen agruparse cerca de centrales eléctricas para nutrirse de la energía recién generada.",
       "name": "Electrode"
     },
     "102": {
-      "description": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+      "description": "Este Pokémon está compuesto de seis huevos que forman una tupida piña que va girando. Cuando se empiezan a resquebrajar las cáscaras, no hay duda de que Exeggcute está a punto de evolucionar.",
       "name": "Exeggcute"
     },
     "103": {
-      "description": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
+      "description": "Exeggutor es originario del trópico. Cuando se expone a un sol intenso, le empiezan a crecer las cabezas. Hay quien dice que, cuando las cabezas caen al suelo, se unen para formar un Exeggcute.",
       "name": "Exeggutor"
     },
     "104": {
-      "description": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+      "description": "A Cubone le ahoga la pena porque no volverá a ver jamás a su madre. La luna le recuerda a veces a ella, y se pone a llorar. Los churretes que tiene en el cráneo que lleva puesto son debidos a las lágrimas que derrama.",
       "name": "Cubone"
     },
     "105": {
-      "description": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
+      "description": "Marowak es la forma evolucionada de Cubone. Es más fuerte porque ha superado la pena por la pérdida de su madre. El ánimo de este Pokémon, ya curtido y fortalecido, no es muy fácil de alterar.",
       "name": "Marowak"
     },
     "106": {
-      "description": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+      "description": "Hitmonlee tiene la facilidad de encoger y estirar las patas. Con extremidades tan flexibles, propina unas patadas demoledoras. Tras la lucha, se masajea las piernas y relaja los músculos para descansar.",
       "name": "Hitmonlee"
     },
     "107": {
-      "description": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+      "description": "Dicen que Hitmonchan tiene el mismo ímpetu que un boxeador entrenándose para un campeonato mundial. Este Pokémon tiene un espíritu indomable que nunca se doblega ante la adversidad.",
       "name": "Hitmonchan"
     },
     "108": {
-      "description": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+      "description": "Cada vez que Lickitung se encuentra con algo que no conoce, le da un lametazo. Es la forma que tiene de memorizar las cosas, por la textura y el sabor. No soporta los sabores ácidos.",
       "name": "Lickitung"
     },
     "109": {
-      "description": "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
+      "description": "Koffing contiene sustancias tóxicas que mezcla con desperdicios para provocar una reacción química que libera un gas tremendamente venenoso. A mayor temperatura, mayor será la cantidad de gas que cree este Pokémon.",
       "name": "Koffing"
     },
     "110": {
-      "description": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+      "description": "Weezing reduce y agranda el doble cuerpo que tiene para mezclar los gases tóxicos que contiene. Cuantos más gases mezcle, mayor será la toxicidad y el nivel de putrefacción del Pokémon.",
       "name": "Weezing"
     },
     "111": {
-      "description": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+      "description": "Rhyhorn tiene un cerebro muy pequeño. Si se pone a correr, por ejemplo, se le olvida qué le llevó a hacerlo. Lo que sí parece recordar, a veces, es si ha destrozado alguna cosa.",
       "name": "Rhyhorn"
     },
     "112": {
-      "description": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
+      "description": "Rhydon tiene un cuerno anillado que le sirve de taladro. Le resulta muy útil para horadar rocas y piedras. A veces, se queda atrapado en corrientes de magma, pero la tosca piel que tiene impide que sienta el calor.",
       "name": "Rhydon"
     },
     "113": {
-      "description": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+      "description": "Chansey pone a diario huevos con un valor nutritivo altísimo. Están tan ricos que hasta quien no tenga hambre se los comerá en un abrir y cerrar de ojos.",
       "name": "Chansey"
     },
     "114": {
-      "description": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+      "description": "A Tangela se le desprenden los tentáculos con facilidad en cuanto se los agarras. Y no solo no le duele, sino que le resulta muy útil para escapar rápido. Además, al día siguiente le crecen otros.",
       "name": "Tangela"
     },
     "115": {
-      "description": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
+      "description": "No es recomendable molestar ni intentar atrapar a crías de Kangaskhan mientras estén jugando, ya que seguro que su madre anda cerca y reaccionará con enfado y violencia.",
       "name": "Kangaskhan"
     },
     "116": {
-      "description": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+      "description": "Si Horsea siente peligro, echará por la boca una densa tinta negra inconscientemente e intentará huir. Este Pokémon nada muy bien batiendo la aleta que tiene en el lomo.",
       "name": "Horsea"
     },
     "117": {
-      "description": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.",
+      "description": "Seadra gira sobre sí mismo y crea unos remolinos lo suficientemente fuertes como para engullir barcos de pesca. Este Pokémon aprovecha las corrientes que crea para debilitar a su presa y tragársela de una vez.",
       "name": "Seadra"
     },
     "118": {
-      "description": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn.",
+      "description": "A Goldeen le encanta nadar libremente y a su aire en ríos y estanques. Si pones a uno de estos Pokémon en un acuario, usará el cuerno que tiene para romper las paredes, independientemente del grosor del cristal, y escapar.",
       "name": "Goldeen"
     },
     "119": {
-      "description": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful.",
+      "description": "Seaking protege sus huevos con uñas y dientes. Macho y hembra se turnan para vigilar el nido y los huevos. Este período de protección dura más de un mes en el caso de estos Pokémon.",
       "name": "Seaking"
     },
     "120": {
-      "description": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+      "description": "Staryu parece comunicarse por la noche con las estrellas haciendo brillar el núcleo rojo de su cuerpo. Si este Pokémon sufre algún daño en alguna zona de su cuerpo, la regenerará sin problema.",
       "name": "Staryu"
     },
     "121": {
-      "description": "Starmie's center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname 'the gem of the sea.'",
+      "description": "Starmie nada por el agua haciendo girar su cuerpo estrellado a modo de hélice. El núcleo de este Pokémon brilla y llega a tornarse de siete colores.",
       "name": "Starmie"
     },
     "122": {
-      "description": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
+      "description": "Mr. Mime es un experto en pantomima. Con sus gestos y movimientos es capaz de convencer a sus espectadores de que algo existe, cuando en realidad no es así. Pero, cuando el público se lo cree, las ilusiones se hacen realidad.",
       "name": "Mr. Mime"
     },
     "123": {
-      "description": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+      "description": "Es espectacular ver lo rápido que es Scyther. Su increíble velocidad refuerza el efecto del par de guadañas que tiene en los brazos, que ya son de por sí contundentes; rebanan gruesos troncos de un tajo.",
       "name": "Scyther"
     },
     "124": {
-      "description": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+      "description": "Jynx camina con ritmo, balanceándose y moviendo las caderas como si estuviera bailando. Realiza unos movimientos tan vistosos y atractivos que no hay quien pueda resistirse a mover las caderas.",
       "name": "Jynx"
     },
     "125": {
-      "description": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
+      "description": "Al desatarse una tormenta, bandadas de estos Pokémon se enfrentan entre sí para ver quién alcanza antes sitios altos en los que suelan caer rayos. Hay ciudades que usan Electabuzz en lugar de pararrayos.",
       "name": "Electabuzz"
     },
     "126": {
-      "description": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+      "description": "Al luchar, Magmar expulsa violentas llamas por todo el cuerpo para intimidar a su rival. Estos estallidos de fuego crean ondas de calor que abrasan la hierba y los árboles que haya en las proximidades.",
       "name": "Magmar"
     },
     "127": {
-      "description": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
+      "description": "Pinsir tiene un par de cuernos imponentes recubiertos de pinchos, que se clavan en el cuerpo del rival. Una vez que los ha clavado, no hay quien escape de su abrazo.",
       "name": "Pinsir"
     },
     "128": {
-      "description": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+      "description": "Este Pokémon no está contento a menos que esté continuamente de aquí para allá. Si no hay rival que luche contra Tauros, se estampa contra árboles grandes para calmarse y los embiste para echarlos abajo.",
       "name": "Tauros"
     },
     "129": {
-      "description": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+      "description": "Magikarp es prácticamente inútil en combate; solo sirve para salpicar, y se le considera muy débil. Con todo, en realidad es un Pokémon muy resistente. Sobrevive en cualquier medio acuático, aunque esté contaminado.",
       "name": "Magikarp"
     },
     "130": {
-      "description": "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature.",
+      "description": "Una vez que Gyarados se desmanda, la presión incontrolable y enrabiada de la sangre no se le calmará hasta que no haya quemado todo lo que le rodea. Según parece, a este Pokémon le duran los arranques de cólera hasta un mes.",
       "name": "Gyarados"
     },
     "131": {
-      "description": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
+      "description": "Por culpa de la gente, Lapras está casi en extinción. Dicen que, al anochecer, se pone a cantar quejicoso mientras busca a los miembros de su especie que puedan quedar.",
       "name": "Lapras"
     },
     "132": {
-      "description": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
+      "description": "Ditto reorganiza la estructura de sus células para adoptar otras formas. Pero, como intente transformarse en algo guiándose por los datos que tenga almacenados en la memoria, habrá detalles que se le escapen.",
       "name": "Ditto"
     },
     "133": {
-      "description": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+      "description": "La configuración genética de Eevee le permite mutar y adaptarse enseguida a cualquier medio en el que viva. La evolución de este Pokémon suele ser posible gracias a las radiaciones emitidas por varias piedras.",
       "name": "Eevee"
     },
     "134": {
-      "description": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+      "description": "Vaporeon sufrió una mutación repentina y desarrolló aletas y branquias que le permiten vivir bajo el agua. Asimismo, este Pokémon tiene la habilidad de controlar las aguas.",
       "name": "Vaporeon"
     },
     "135": {
-      "description": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+      "description": "Las células de Jolteon generan un nivel bajo de electricidad, cuya intensidad aumenta con la electricidad estática que acumula en un pelaje formado por agujas cargadas de electricidad. Esta característica le permite lanzar rayos.",
       "name": "Jolteon"
     },
     "136": {
-      "description": "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
+      "description": "La suavidad del pelaje de Flareon tiene una función clara: libera calor para que el Pokémon no se asfixie. La temperatura corporal de este Pokémon puede alcanzar los 900 °C.",
       "name": "Flareon"
     },
     "137": {
-      "description": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying.",
+      "description": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anticopia, así que es imposible duplicarlo.",
       "name": "Porygon"
     },
     "138": {
-      "description": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+      "description": "Omanyte es uno de esos Pokémon ancestrales que se extinguieron hace muchísimo tiempo y que la gente ha recuperado a partir de fósiles. Si un enemigo le ataca, se esconderá dentro de la dura concha que tiene.",
       "name": "Omanyte"
     },
     "139": {
-      "description": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+      "description": "Omastar usa los tentáculos para atrapar a su presa. Se cree que el motivo de su extinción fue el tamaño y el peso que llegó a alcanzar la concha que lleva a cuestas, lo que le entorpeció y ralentizó los movimientos.",
       "name": "Omastar"
     },
     "140": {
-      "description": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+      "description": "Kabuto es un Pokémon regenerado a partir de un fósil, aunque, en raras ocasiones, se han encontrado casos de ejemplares vivos en estado salvaje. En 300 millones de años, este Pokémon no ha cambiado en nada.",
       "name": "Kabuto"
     },
     "141": {
-      "description": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs.",
+      "description": "Hace mucho tiempo, Kabutops buceaba para atrapar a sus presas. Parece ser que en algún momento cambió de hábitat y se adaptó a vivir en tierra firme. La transformación que se aprecia en las patas y branquias así lo confirma.",
       "name": "Kabutops"
     },
     "142": {
-      "description": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+      "description": "Los orígenes de Aerodactyl datan de la era de los dinosaurios. Se regeneró a partir de material genético contenido en ámbar. Se supone que fue el amo de los cielos en épocas pasadas.",
       "name": "Aerodactyl"
     },
     "143": {
-      "description": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
+      "description": "Un día cualquiera en la vida de Snorlax consiste en comer y dormir. Es un Pokémon tan dócil que es fácil ver niños usando la gran panza que tiene como lugar de juegos.",
       "name": "Snorlax"
     },
     "144": {
-      "description": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+      "description": "Articuno es un Pokémon pájaro legendario que puede controlar el hielo. El batir de sus alas congela el aire. Dicen que consigue hacer que nieve cuando vuela.",
       "name": "Articuno"
     },
     "145": {
-      "description": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+      "description": "Zapdos es un Pokémon pájaro legendario que tiene la habilidad de controlar la electricidad. Suele vivir en nubarrones. Este Pokémon gana mucha fuerza si le alcanzan los rayos.",
       "name": "Zapdos"
     },
     "146": {
-      "description": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+      "description": "Moltres es un Pokémon pájaro legendario que tiene la habilidad de controlar el fuego. Dicen que, si resulta herido, se sumerge en el líquido magma de un volcán para arder y curarse.",
       "name": "Moltres"
     },
     "147": {
-      "description": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+      "description": "Dratini muda y se despoja de la vieja piel continuamente. Es algo que necesita hacer porque la energía que tiene en su interior no para de alcanzar niveles incontrolables.",
       "name": "Dratini"
     },
     "148": {
-      "description": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+      "description": "Dragonair acumula grandes cantidades de energía dentro de sí. Dicen que altera el clima de la zona en la que está descargando energía a través de las esferas de cristal que tiene en el cuello y en la cola.",
       "name": "Dragonair"
     },
     "149": {
-      "description": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+      "description": "Dragonite es capaz de dar la vuelta al mundo en solo 16 horas. Es un Pokémon de buen corazón que guía hasta tierra a los barcos que se encuentran perdidos en plena tormenta y a punto de zozobrar.",
       "name": "Dragonite"
     },
     "150": {
-      "description": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+      "description": "Mewtwo fue creado por manipulación genética. Pero, a pesar de que el hombre creó su cuerpo, dotar a Mewtwo de un corazón compasivo quedó en el olvido.",
       "name": "Mewtwo"
     },
     "151": {
-      "description": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "description": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
       "name": "Mew"
     },
     "152": {
-      "description": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
+      "description": "Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad.",
       "name": "Chikorita"
     },
     "153": {
-      "description": "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+      "description": "Bayleef tiene un collar de hojas alrededor del cuello y un brote de un árbol en cada una de ellas. La fragancia que desprenden estos brotes anima a la gente.",
       "name": "Bayleef"
     },
     "154": {
-      "description": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit.",
+      "description": "La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.",
       "name": "Meganium"
     },
     "155": {
-      "description": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+      "description": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero, si está cansado, solo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
       "name": "Cyndaquil"
     },
     "156": {
-      "description": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+      "description": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo que producen. También aprovecha su espectacular agilidad para esquivar ataques a la vez que abrasa al rival con sus llamas.",
       "name": "Quilava"
     },
     "157": {
-      "description": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
+      "description": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
       "name": "Typhlosion"
     },
     "158": {
-      "description": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+      "description": "Totodile tiene cuerpo pequeño, pero fuertes mandíbulas. A veces, piensa que solo está dando un mordisquito y hace unas heridas bastante considerables.",
       "name": "Totodile"
     },
     "159": {
-      "description": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+      "description": "Una vez que Croconaw le ha clavado los colmillos a su presa, es imposible que escape porque los tiene hacia adentro como si fueran anzuelos. Cuando Croconaw hinca los dientes, no hay escapatoria.",
       "name": "Croconaw"
     },
     "160": {
-      "description": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+      "description": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
       "name": "Feraligatr"
     },
     "161": {
-      "description": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+      "description": "Sentret no duerme a menos que otro haga guardia. El que hace de centinela lo despertará al mínimo signo de peligro. Cuando este Pokémon se separa de su manada, es incapaz de echarse a dormir, presa del miedo.",
       "name": "Sentret"
     },
     "162": {
-      "description": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
+      "description": "Furret es de constitución muy delgada. En combate le resulta útil porque puede escabullirse con habilidad por cualquier huequito y escapar. A pesar de que tiene patas cortas, es ágil y veloz.",
       "name": "Furret"
     },
     "163": {
-      "description": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
+      "description": "Hoothoot tiene un órgano interno que identifica y percibe la rotación de la tierra. Gracias a este órgano, el Pokémon ulula todos los días a la misma hora.",
       "name": "Hoothoot"
     },
     "164": {
-      "description": "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
+      "description": "Noctowl no falla a la hora de cazar a su presa en la oscuridad. El éxito se lo debe a una vista privilegiada, que le permite ver donde apenas hay luz, y a las ligeras y flexibles alas que tiene, que no hacen ruido alguno al volar.",
       "name": "Noctowl"
     },
     "165": {
-      "description": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid's scent.",
+      "description": "Ledyba segrega un fluido aromático por los seis puntos de unión que tiene entre las patas y el cuerpo. A través de este fluido se comunica con otros y les informa acerca de sus sentimientos variando la esencia.",
       "name": "Ledyba"
     },
     "166": {
-      "description": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy.",
+      "description": "Dicen que en zonas en las que el aire está limpio, en las que se ven las estrellas, hay enormes poblaciones de Ledian. La razón es muy sencilla: este Pokémon usa la luz de las estrellas como fuente de energía.",
       "name": "Ledian"
     },
     "167": {
-      "description": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+      "description": "La tela que teje Spinarak puede considerarse como su segundo sistema nervioso. Dicen que puede adivinar qué tipo de presa ha caído en su red con solo observar las leves vibraciones de los hilos de la tela.",
       "name": "Spinarak"
     },
     "168": {
-      "description": "Ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
+      "description": "Ariados tiene unas patas con forma de garfio que le permiten correr por techos y superficies verticales. Este Pokémon oprime al rival con una tela de araña fina y resistente.",
       "name": "Ariados"
     },
     "169": {
-      "description": "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
+      "description": "Crobat se acerca hasta su posible presa usando las alas casi sin hacer ruido. La forma de descansar que tiene es colgarse de la rama de un árbol por las patas traseras",
       "name": "Crobat"
     },
     "170": {
-      "description": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
+      "description": "Las dos antenas de Chinchou están llenas de células que generan potente electricidad. Crean tal cantidad que hasta el propio Pokémon siente cierto hormigueo.",
       "name": "Chinchou"
     },
     "171": {
-      "description": "Lanturn is nicknamed 'the deep-sea star' for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+      "description": "Todos saben que Lanturn emite luz. Si echas un ojo al mar desde un barco en una noche cerrada, quizás veas su luz a través de las aguas, brillando desde lo más profundo, por donde suele nadar. Con él, el mar parece un cielo estrellado.",
       "name": "Lanturn"
     },
     "172": {
-      "description": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
+      "description": "Cuando Pichu juega con otros, puede liberar electricidad y producir una auténtica lluvia de chispas. Cuando esto ocurre, chilla asustado por tanta chispa.",
       "name": "Pichu"
     },
     "173": {
-      "description": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
+      "description": "Cuando hay lluvia de estrellas, a los Cleffa se les puede ver danzando en círculos durante toda la noche. Solo paran cuando rompe el día; entonces, dejan de bailar y calman su sed con el rocío de la mañana",
       "name": "Cleffa"
     },
     "174": {
-      "description": "Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.",
+      "description": "Igglybuff es suave y tierno, parece un merengue. Emana un aroma dulce y agradable que le sirve para calmar los ánimos de sus oponentes en combate..",
       "name": "Igglybuff"
     },
     "175": {
-      "description": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
+      "description": "Togepi usa los sentimientos positivos de compasión y alegría que desprenden las personas y los Pokémon. Este Pokémon almacena sentimientos de felicidad en su interior y después los comparte con otros.",
       "name": "Togepi"
     },
     "176": {
-      "description": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+      "description": "Dicen que Togetic es un Pokémon que trae buena suerte y que, si detecta a alguien que es puro de corazón, sale para compartir su alegría con él.",
       "name": "Togetic"
     },
     "177": {
-      "description": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
+      "description": "Natu ha desarrollado tremendamente la habilidad de saltar. Este Pokémon aletea y da brinquitos por las ramas altas a las que no alcanza nadie para hacerse con los nuevos brotes de los árboles.",
       "name": "Natu"
     },
     "178": {
-      "description": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
+      "description": "Xatu es conocido por el hábito que tiene de quedarse todo el día contemplando el sol. Hay mucha gente que lo venera como Pokémon místico, pues piensan que Xatu tiene el poder de ver el futuro.",
       "name": "Xatu"
     },
     "179": {
-      "description": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.",
+      "description": "Mareep tiene un pelaje lanudo suave que produce carga estática por el roce. Cuanto más se carga de electricidad estática, más brilla la bombilla que tiene en el extremo de la cola.",
       "name": "Mareep"
     },
     "180": {
-      "description": "Flaaffy's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
+      "description": "La calidad de la lana de Flaaffy varía para poder generar mucha electricidad estática con muy poca cantidad de lana. Las zonas suaves de la piel en las que no tiene pelaje están protegidas contra la electricidad.",
       "name": "Flaaffy"
     },
     "181": {
-      "description": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away.",
+      "description": "Ampharos desprende tanta luz que es posible verle hasta desde el espacio. Antes, la gente usaba su luz como sistema de comunicación para enviarse señales.",
       "name": "Ampharos"
     },
     "182": {
-      "description": "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon's dancing is renowned in the southern lands.",
+      "description": "La belleza de las flores que le crecen a Bellossom depende de lo mal que oliera el Gloom a partir del cual evolucionó. A mayor hedor, mayor belleza. Por la noche, este Pokémon cierra los pétalos y se echa a dormir.",
       "name": "Bellossom"
     },
     "183": {
-      "description": "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this Pokémon is diving beneath the water to feed on aquatic plants.",
+      "description": "Este Pokémon tiene la cola muy flexible y elástica. A la hora de pescar a su presa en una rápida corriente, Marill enrosca la cola en un árbol.",
       "name": "Marill"
     },
     "184": {
-      "description": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
+      "description": "Azumarill puede hacer burbujas de aire si ve a algún Pokémon que esté a punto de ahogarse. Estas burbujas de aire son básicas para que los Pokémon puedan seguir respirando.",
       "name": "Azumarill"
     },
     "185": {
-      "description": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
+      "description": "Sudowoodo se camufla adoptando la imagen de un árbol para que no le ataque ningún enemigo. El problema viene en invierno, ya que las extremidades superiores tienen color verde y es fácil identificarle.",
       "name": "Sudowoodo"
     },
     "186": {
-      "description": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
+      "description": "El mechón rizado de Politoed confirma su condición de rey. Dicen que cuanto más le crece y más se le riza, mayor es el respeto que recibe de sus súbditos.",
       "name": "Politoed"
     },
     "187": {
-      "description": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+      "description": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
       "name": "Hoppip"
     },
     "188": {
-      "description": "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
+      "description": "Skiploom florece cuando la temperatura llega a 18 °C. La apertura de los pétalos varía según la temperatura que haga. Por este motivo, la gente lo usa a veces a modo de termómetro",
       "name": "Skiploom"
     },
     "189": {
-      "description": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
+      "description": "Jumpluff se vale de los cálidos vientos del sur para volar a tierras lejanas. Si llega a zonas de aire frío en pleno vuelo, descenderá y tomará tierra.",
       "name": "Jumpluff"
     },
     "190": {
-      "description": "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.",
+      "description": "La cola de Aipom termina en una especie de mano a la que, con un poco de cabeza, se le puede dar muy buen uso. Pero hay un problema: como se ha acostumbrado a usarla mucho, las de verdad se le han vuelto algo torponas.",
       "name": "Aipom"
     },
     "191": {
-      "description": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+      "description": "Sunkern intenta moverse lo menos posible para conservar todos los nutrientes que ha guardado en su interior y poder evolucionar. Ni come siquiera; se alimenta solo del rocío de la mañana.",
       "name": "Sunkern"
     },
     "192": {
-      "description": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
+      "description": "Sunflora transforma la energía solar en nutrientes. De día, cuando hace calor, está en continuo movimiento. Solo para cuando comienza a anochecer.",
       "name": "Sunflora"
     },
     "193": {
-      "description": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
+      "description": "Yanma tiene un ángulo de visión de 360° sin mover los ojos. Es un gran volador, experto en hacer repentinas paradas y cambios de dirección en el aire. Aprovecha la habilidad que tiene de volar para lanzarse sobre su presa.",
       "name": "Yanma"
     },
     "194": {
-      "description": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+      "description": "Wooper suele vivir en el agua, pero es posible también verle en tierra en busca de comida. Cuando está en terreno firme, se cubre con una película viscosa tóxica.",
       "name": "Wooper"
     },
     "195": {
-      "description": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
+      "description": "Quagsire caza dejando las fauces abiertas en el agua y esperando a que su presa entre sin darse cuenta. Como se queda quieto, el Pokémon no pasa mucha hambre.",
       "name": "Quagsire"
     },
     "196": {
-      "description": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
+      "description": "Espeon es tremendamente leal al Entrenador al que considera digno de ello. Dicen que este Pokémon desarrolló sus poderes adivinatorios para evitar que su Entrenador sufra daño alguno.",
       "name": "Espeon"
     },
     "197": {
-      "description": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+      "description": "Umbreon evolucionó tras haber estado expuesto a ondas lunares. Suele esconderse en la oscuridad en silencio y esperar a que su presa se mueva. Cuando se lanza al ataque, le brillan los anillos del cuerpo.",
       "name": "Umbreon"
     },
     "198": {
-      "description": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+      "description": "Murkrow ha sido temido y repudiado por todos por ser supuestamente fuente de mala suerte. Este Pokémon siente debilidad por todo lo que brilla y resplandece. A las mujeres les roba los anillos.",
       "name": "Murkrow"
     },
     "199": {
-      "description": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
+      "description": "Slowking dedica cada día tiempo a investigar, en un intento por resolver los misterios del mundo. Aunque, según parece, a este Pokémon se le olvida todo lo que ha aprendido si se separa del Shellder que lleva en la cabeza.",
       "name": "Slowking"
     },
     "200": {
-      "description": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+      "description": "Misdreavus asusta a la gente con un chillido escalofriante y sollozante. Y, al parecer, usa las esferas rojas para absorber los sentimientos de miedo de los enemigos y usarlos como alimento.",
       "name": "Misdreavus"
     },
     "201": {
-      "description": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
+      "description": "Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.",
       "name": "Unown"
     },
     "202": {
-      "description": "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
+      "description": "Wobbuffet no hace otra cosa que aguantar los golpes que recibe: nunca usa movimientos ofensivos. Pero, si le atacan a la cola, intentará llevarse con él al enemigo usando Mismo Destino.",
       "name": "Wobbuffet"
     },
     "203": {
-      "description": "Girafarig's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite.",
+      "description": "La cabeza trasera de Girafarig tiene un cerebro muy pequeño para pensar, pero, como no le hace falta dormir, al menos puede hacer de centinela las 24 horas del día.",
       "name": "Girafarig"
     },
     "204": {
-      "description": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+      "description": "Pineco permanece colgado de la rama de un árbol esperando pacientemente a su presa. Si alguien sacude el árbol en el que está mientras come y le molesta, se tira al suelo y explota sin dar ningún tipo de aviso.",
       "name": "Pineco"
     },
     "205": {
-      "description": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
+      "description": "Forretress se esconde dentro de su concha de acero reforzada. Solo la abre cuando va a atrapar a su presa, pero ocurre tan rápido que no da tiempo de ver su interior.",
       "name": "Forretress"
     },
     "206": {
-      "description": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+      "description": "La cola de Dunsparce es un taladro que usa para enterrarse en el suelo de espaldas. De todos es sabido que este Pokémon hace su nido a gran profundidad y con una forma muy compleja.",
       "name": "Dunsparce"
     },
     "207": {
-      "description": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+      "description": "Gligar planea por el aire sin hacer ningún ruido, como si fuera patinando. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras y le inyecta veneno por el aguijón.",
       "name": "Gligar"
     },
     "208": {
-      "description": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
+      "description": "Steelix vive a mayor profundidad aún que Onix. Se le conoce por su tendencia a excavar hacia el interior del planeta. Hay datos que muestran que este Pokémon ha llegado a alcanzar 1 km de profundidad.",
       "name": "Steelix"
     },
     "209": {
-      "description": "By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.",
+      "description": "Al tener los colmillos por fuera, Snubbull da miedo y espanta a los Pokémon pequeños, que huyen aterrados. Parece que a él le da un poco de pena que salgan huyendo.",
       "name": "Snubbull"
     },
     "210": {
-      "description": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+      "description": "Granbull tiene la mandíbula inferior demasiado desarrollada y colmillos enormes y pesados que le obligan a inclinar la cabeza hacia atrás para compensar el peso. Si no se le asusta, no muerde.",
       "name": "Granbull"
     },
     "211": {
-      "description": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+      "description": "Qwilfish bebe agua y se hincha, y a continuación usa la presión del agua que ha tragado para lanzar púas tóxicas por todo el cuerpo. Para este Pokémon nadar es una especie de desafío.",
       "name": "Qwilfish"
     },
     "212": {
-      "description": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+      "description": "Scizor tiene un cuerpo duro como el acero que no es fácil de alterar con ningún ataque común. Este Pokémon bate las alas para regular la temperatura corporal.",
       "name": "Scizor"
     },
     "213": {
-      "description": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+      "description": "Shuckle permanece escondido bajo las rocas en silencio y, cuando se pone a comer las bayas que almacena, se encierra en el caparazón. Las bayas se mezclan con sus fluidos corporales y originan zumo.",
       "name": "Shuckle"
     },
     "214": {
-      "description": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
+      "description": "Heracross tiene unas afiladas garras en los pies que se clavan con firmeza en la tierra o la corteza de los árboles, dando al Pokémon gran estabilidad y seguridad a la hora de embestir y herir a su rival con el cuerno que tiene.",
       "name": "Heracross"
     },
     "215": {
-      "description": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
+      "description": "Sneasel trepa por los árboles agarrándose a la corteza con las garras curvas que tiene. Este Pokémon busca nidos desprovistos de vigilancia paterna para robar los huevos y comérselos.",
       "name": "Sneasel"
     },
     "216": {
-      "description": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
+      "description": "A Teddiursa le encanta chuparse las palmas impregnadas de dulce miel. Este Pokémon fabrica su propia miel mezclando frutos y el polen que recoge Beedrill.",
       "name": "Teddiursa"
     },
     "217": {
-      "description": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",
+      "description": "En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.",
       "name": "Ursaring"
     },
     "218": {
-      "description": "Molten magma courses throughout Slugma's circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
+      "description": "Slugma no tiene sangre en su organismo, sino ardiente magma que hace circular por todo el cuerpo los nutrientes y el oxígeno que necesitan sus órganos.",
       "name": "Slugma"
     },
     "219": {
-      "description": "Magcargo's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma.",
+      "description": "Magcargo tiene una temperatura corporal de 1000 °C aproximadamente. El agua se evapora al contacto con él. Si llueve, las gotas que le rozan se transforman en vapor al instante y crean una densa niebla.",
       "name": "Magcargo"
     },
     "220": {
-      "description": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
+      "description": "Swinub busca el alimento frotando el hocico contra el suelo. Su comida preferida es una seta que crece bajo la hierba marchita. A veces, al frotar, descubre fuentes termales.",
       "name": "Swinub"
     },
     "221": {
-      "description": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
+      "description": "Piloswine está cubierto por un pelaje tupido y de largas cerdas que le permite soportar el frío polar. Este Pokémon usa los colmillos para desenterrar los alimentos que hayan podido quedar bajo el hielo.",
       "name": "Piloswine"
     },
     "222": {
-      "description": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
+      "description": "Las aguas templadas son el hábitat de Corsola. Allí se agrupan grandes bancos de estos Pokémon que sirven de escondite a Pokémon más pequeños. Cuando la temperatura del agua baja, suelen migrar a los mares del sur.",
       "name": "Corsola"
     },
     "223": {
-      "description": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
+      "description": "Remoraid traga agua y usa los abdominales para lanzarla a gran velocidad contra una presa que esté en el aire. Cuando está a punto de evolucionar, este Pokémon nada en los ríos corriente abajo.",
       "name": "Remoraid"
     },
     "224": {
-      "description": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
+      "description": "Octillery se apodera de su enemigo con los tentáculos y lo deja inmovilizado antes de propinarle el golpe final. Si el enemigo resulta ser demasiado fuerte, Octillery expulsará tinta para escapar.",
       "name": "Octillery"
     },
     "225": {
-      "description": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",
+      "description": "Delibird usa la cola a modo de saco para llevar su alimento. En una ocasión, un famoso escalador consiguió alcanzar la cima más alta del mundo gracias a que uno de estos Pokémon compartió sus alimentos con él.",
       "name": "Delibird"
     },
     "226": {
-      "description": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
+      "description": "En los días que hace sol, es posible ver bancos de Mantine saltando con elegancia por entre las olas del mar. A estos Pokémon no les molestan los Remoraid que se les pegan.",
       "name": "Mantine"
     },
     "227": {
-      "description": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
+      "description": "A Skarmory se le quedan las alas abolladas y desgarradas tras varios combates. Una vez al año, le vuelven a crecer completamente con los bordes cortantes que tenían en un principio restaurados.",
       "name": "Skarmory"
     },
     "228": {
-      "description": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is unparalleled.",
+      "description": "Houndour sale a cazar con el resto de la manada con total coordinación. Estos Pokémon se comunican unos con otros usando una serie de aullidos para acorralar a su presa. El compañerismo que existe entre ellos es incomparable.",
       "name": "Houndour"
     },
     "229": {
-      "description": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves.",
+      "description": "En la manada de Houndoom, el que tiene los cuernos más arqueados hacia atrás tiene un mayor papel de liderazgo. Estos Pokémon suelen elegir al jefe en duelo.",
       "name": "Houndoom"
     },
     "230": {
-      "description": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
+      "description": "Kingdra duerme en el lecho marino, donde apenas pueden encontrarse otras formas de vida. Cuando estalla una tormenta, dicen que se despierta y se pone a vagar en busca de su presa.",
       "name": "Kingdra"
     },
     "231": {
-      "description": "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
+      "description": "Phanpy se vale de la trompa para ducharse. Cuando varios se agrupan, se dedican a echarse agua unos a otros. Es muy fácil ver a estos Pokémon secándose cerca del agua.",
       "name": "Phanpy"
     },
     "232": {
-      "description": "Donphan's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can't stop very easily.",
+      "description": "Si Donphan tuviera que dar un golpe con todo el cuerpo, con lo robusto que es echaría abajo hasta una casa. Estos Pokémon usan su fuerza para ayudar a despejar pasos de montaña cuando hay piedras o lodo.",
       "name": "Donphan"
     },
     "233": {
-      "description": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "description": "Porygon2 fue creado por el hombre gracias a los avances de la ciencia. Esta obra humana ha sido provista de inteligencia artificial que le permite aprender gestos y sensaciones nuevas por su cuenta.",
       "name": "Porygon2"
     },
     "234": {
-      "description": "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
+      "description": "Hace tiempo, se comerciaba con la magnífica cornamenta de Stantler. Se vendía como obra de arte a alto precio. Los interesados en cornamentas de valor incalculable empezaron a cazarlos y casi provocan su extinción.",
       "name": "Stantler"
     },
     "235": {
-      "description": "Smeargle marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this Pokémon have been found.",
+      "description": "Smeargle marca los límites de su territorio liberando un fluido corporal por el extremo de la cola. En la actualidad se han encontrado más de 5000 tipos de marcas distintas dejadas por este Pokémon.",
       "name": "Smeargle"
     },
     "236": {
-      "description": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
+      "description": "Tyrogue se pone demasiado nervioso si no lo sacan a entrenarse cada día. Su Entrenador debe establecer y mantener ciertos métodos de entrenamiento durante la cría.",
       "name": "Tyrogue"
     },
     "237": {
-      "description": "Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking.",
+      "description": "Hitmontop hace el pino con la cabeza y se pone a girar rápido al tiempo que reparte patadas. Esta es una técnica ofensiva y defensiva a la vez. Este Pokémon se desplaza más rápido girando sobre sí que caminando.",
       "name": "Hitmontop"
     },
     "238": {
-      "description": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+      "description": "Smoochum va corriendo por todos lados, pero se cae también con frecuencia. Y, en cuanto tiene ocasión, se mira en algún sitio para ver si se ha manchado la cara.",
       "name": "Smoochum"
     },
     "239": {
-      "description": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
+      "description": "Elekid acumula electricidad. Si entra en contacto con algo de metal y descarga accidentalmente toda la electricidad almacenada, empieza a agitar los brazos en círculo para volver a cargarse.",
       "name": "Elekid"
     },
     "240": {
-      "description": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+      "description": "El estado de salud de Magby se puede determinar observando el fuego que emana al respirar. Si las llamas que echa por la boca son amarillas, está bien. Pero, si además de las llamas sale humo negro, está cansado.",
       "name": "Magby"
     },
     "241": {
-      "description": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+      "description": "Miltank da al día 20 l de una leche dulce que es la delicia de pequeños y mayores. Aquellos que no pueden tomarla, se decantan por los yogures.",
       "name": "Miltank"
     },
     "242": {
-      "description": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face.",
+      "description": "Blissey es capaz de sentir la tristeza a través del sedoso pelaje. Si detecta que alguien está apenado, irá hasta donde esté y compartirá un Huevo Suerte para devolverle la sonrisa.",
       "name": "Blissey"
     },
     "243": {
-      "description": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+      "description": "Raikou tiene la velocidad del rayo. Los rugidos de este Pokémon emiten ondas de choque que se esparcen vibrando por el aire y sacuden el suelo como si fueran auténticas descargas de rayo.",
       "name": "Raikou"
     },
     "244": {
-      "description": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+      "description": "Entei contiene el fulgor del magma en su interior. Se cree que este Pokémon nació de la erupción de un volcán. Escupe numerosas ráfagas de fuego que devoran y reducen a cenizas todo lo que tocan.",
       "name": "Entei"
     },
     "245": {
-      "description": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
+      "description": "Suicune emana la pureza de los manantiales. Suele corretear por el campo con gran elegancia. Este Pokémon tiene el poder de purificar el agua contaminada.",
       "name": "Suicune"
     },
     "246": {
-      "description": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
+      "description": "Larvitar nace bajo tierra a gran profundidad. Para subir a la superficie, este Pokémon debe comer lo que encuentra en su camino para abrirse paso. Y, hasta que no está arriba, no puede verles la cara a sus padres.",
       "name": "Larvitar"
     },
     "247": {
-      "description": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel.",
+      "description": "Pupitar crea un gas en su interior que comprime y expulsa violentamente a modo de autopropulsión. Tiene un cuerpo resistente que se mantiene inalterable hasta cuando se golpea contra duro acero.",
       "name": "Pupitar"
     },
     "248": {
-      "description": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+      "description": "Tyranitar tiene una fuerza imponente; es capaz de echar abajo una montaña para hacer su nido. Este Pokémon suele merodear por las zonas de montaña en busca de nuevos rivales contra los que luchar.",
       "name": "Tyranitar"
     },
     "249": {
-      "description": "Lugia's wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
+      "description": "La fuerza que tiene Lugia en las alas es devastadora; con nada que las bata es capaz de derribar edificios enteros. Por eso mismo, prefiere vivir donde no haya nadie, en lo más profundo del mar.",
       "name": "Lugia"
     },
     "250": {
-      "description": "Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
+      "description": "El plumaje de Ho-Oh contiene siete colores que pueden apreciarse según el ángulo desde el que les dé la luz. Dicen que sus plumas dan felicidad a quienes las llevan y, también, que este Pokémon vive a los pies del arco iris.",
       "name": "Ho-Oh"
     },
     "251": {
-      "description": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+      "description": "Este Pokémon vino del futuro haciendo un viaje en el tiempo. Hay quien piensa que, mientras Celebi siga apareciendo, hay un futuro brillante y esperanzador.",
       "name": "Celebi"
     },
     "252": {
-      "description": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail. ",
+      "description": "Treecko es tranquilo y tiene gran capacidad de autocontrol; no pierde la calma en ninguna situación. Si algún rival se le queda mirando fijamente, le devolverá la mirada sin ceder ni lo más mínimo de su territorio.",
       "name": "Treecko"
     },
     "253": {
-      "description": "The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles. ",
+      "description": "Este Pokémon revolotea de rama en rama con maestría. Cuando Grovyle va volando por el bosque, no hay quien lo alcance por muy rápido que sea.",
       "name": "Grovyle"
     },
     "254": {
-      "description": "The leaves growing on Sceptile's body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind.",
+      "description": "A Sceptile le crecen en la espalda unas semillas llenas de nutrientes que sirven para revitalizar los árboles. De hecho, se dedica a cuidarlos con mimo para que crezcan bien.",
       "name": "Sceptile"
     },
     "255": {
-      "description": "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black. ",
+      "description": "Torchic tiene un lugar en el interior de su organismo en el que guarda la llama que posee. Si le das un abrazo, arderá encantado. Este Pokémon está recubierto totalmente de sedoso plumón.",
       "name": "Torchic"
     },
     "256": {
-      "description": "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon's legs possess both speed and power, enabling it to dole out 10 kicks in one second. ",
+      "description": "Combusken lucha haciendo uso de las abrasadoras llamas que expulsa por el pico y de unas patadas fulminantes. Este Pokémon emite un sonido muy fuerte y molesto.",
       "name": "Combusken"
     },
     "257": {
-      "description": "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon's wrists burn. ",
+      "description": "Blaziken tiene unas piernas tan fuertes que puede saltar por encima de un edificio de 30 pisos con facilidad. Además, da unos puñetazos fulminantes que dejan al oponente chamuscado y lleno de tizne.",
       "name": "Blaziken"
     },
     "258": {
-      "description": "The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes. ",
+      "description": "En el agua, Mudkip usa las branquias que tiene en los mofletes para respirar. Cuando tiene que enfrentarse a una situación delicada en combate, desata una fuerza asombrosa con la que puede destruir rocas incluso mayores que él.",
       "name": "Mudkip"
     },
     "259": {
-      "description": "The surface of Marshtomp's body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low. ",
+      "description": "Marshtomp se desplaza más rápido por el lodo que por el agua. Los cuartos traseros de este Pokémon muestran un desarrollo más que evidente, lo que le permite andar solo sobre las patas traseras.",
       "name": "Marshtomp"
     },
     "260": {
-      "description": "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water. ",
+      "description": "Swampert puede predecir tormentas al percibir con las aletas los sutiles cambios que producen las olas y las corrientes. Si está a punto de estallar una tormenta, empezará a apilar piedras para resguardarse.",
       "name": "Swampert"
     },
     "261": {
-      "description": "At first sight, Poochyena takes a bite at anything that moves. This Pokémon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back. ",
+      "description": "Poochyena es un Pokémon omnívoro. Se come lo que sea. Le caracteriza el gran tamaño de sus colmillos respecto al resto del cuerpo. Este Pokémon hace que se le erice la cola para intentar intimidar a su rival.",
       "name": "Poochyena"
     },
     "262": {
-      "description": "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pokémon will bite savagely with its sharply pointed fangs. ",
+      "description": "Mightyena se desplaza y vive con su jauría en estado salvaje. Por eso, acostumbrado a esta libertad, obedece al Entrenador al que considere realmente dotado de habilidades superiores al resto.",
       "name": "Mightyena"
     },
     "263": {
-      "description": "Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see. ",
+      "description": "Zigzagoon tiene erizado el pelo del lomo, y suele frotárselo contra los árboles para marcar su territorio. Este Pokémon hace como si estuviera debilitado para engañar a sus enemigos en combate.",
       "name": "Zigzagoon"
     },
     "264": {
-      "description": "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pokémon is very challenged by gently curving roads. ",
+      "description": "Cuando Linoone caza, va directo hacia su presa a toda velocidad. Si por un lado puede alcanzar 100 km/h, por otro tiene que frenar en seco para poder cambiar de sentido.",
       "name": "Linoone"
     },
     "265": {
-      "description": "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokémon's feet are tipped with suction pads that allow it to cling to glass without slipping. ",
+      "description": "Wurmple es la presa preferida de Swellow. La forma que tiene de intentar defenderse es apuntar con las púas del lomo al amenazante enemigo y debilitarlo inyectándole veneno.",
       "name": "Wurmple"
     },
     "266": {
-      "description": "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pokémon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole. ",
+      "description": "Se pensaba que Silcoon podía aguantar el hambre y no consumir nada antes de evolucionar. Sin embargo, ahora se cree que sacia su sed bebiendo el agua de la lluvia que se le queda sobre la seda del capullo.",
       "name": "Silcoon"
     },
     "267": {
-      "description": "Beautifly's favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
+      "description": "Beautifly tiene una boca enorme en espiral que parece una aguja y le resulta muy útil para recolectar polen. Este Pokémon va revoloteando de flor en flor para recogerlo.",
       "name": "Beautifly"
     },
     "268": {
-      "description": "Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This Pokémon prepares for its evolution inside the cocoon. ",
+      "description": "Si atacan a Cascoon, se queda inmóvil aunque le hayan hecho mucho daño, puesto que, si se moviera, perdería fuerzas para evolucionar. Nunca olvida el daño que le han hecho.",
       "name": "Cascoon"
     },
     "269": {
-      "description": "Dustox is instinctively drawn to light. Swarms of this Pokémon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food. ",
+      "description": "Cuando Dustox bate las alas, libera un polvillo fino que en realidad es un peligroso veneno que puede resultar dañino hasta al más fuerte de los fuertes. Las antenas le sirven de radar para buscar comida.",
       "name": "Dustox"
     },
     "270": {
-      "description": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water. ",
+      "description": "A Lotad se le atribuye el haber vivido antes en tierra. En cualquier caso, se cree que volvió al agua porque la hoja de la cabeza le creció mucho y le empezó a pesar. Ahora vive flotando en el agua.",
       "name": "Lotad"
     },
     "271": {
-      "description": "Lombre is nocturnal—it will get active after dusk. It is also a mischief maker. When this Pokémon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation. ",
+      "description": "Lombre está completamente recubierto por una película viscosa y resbaladiza. La sensación que produce cuando roza a alguien con las manos es muy desagradable. A veces se confunde a este Pokémon con un niño pequeño.",
       "name": "Lombre"
     },
     "272": {
-      "description": "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pokémon is said to appear when it hears the singing of children on hiking outings. ",
+      "description": "Las células de Ludicolo se revolucionan y llenan de energía cuando oye sonidos rítmicos y alegres. En combate hace gala también de esta cantidad desmesurada de energía.",
       "name": "Ludicolo"
     },
     "273": {
-      "description": "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon's body becomes.",
+      "description": "Seedot es igualito a una bellota colgada de la rama de un árbol. A veces asusta a más de un Pokémon con movimientos repentinos. Seedot suele acicalarse con hojas una vez al día.",
       "name": "Seedot"
     },
     "274": {
-      "description": "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pokémon dislikes having its long nose pinched. ",
+      "description": "Nuzleaf saca la hoja que tiene en la cabeza y la usa como flauta. El sonido que emite infunde miedo e incertidumbre a quien se encuentre perdido por el bosque.",
       "name": "Nuzleaf"
     },
     "275": {
-      "description": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds. ",
+      "description": "Las grandes manos con forma de hoja que tiene Shiftry generan grandes corrientes de aire que pueden alcanzar 30 m/s y barrer lo que sea. Este Pokémon opta por vivir tranquilo en medio del bosque.",
       "name": "Shiftry"
     },
     "276": {
-      "description": "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+      "description": "Taillow es pequeño, está recién salido del nido. Por eso, se siente solo con frecuencia y se pone a piar. Este Pokémon se alimenta de los Wurmple que hay por el bosque.",
       "name": "Taillow"
     },
     "277": {
-      "description": "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow's clawed feet, preventing escape. ",
+      "description": "Swellow se preocupa a conciencia del mantenimiento de sus lustrosas alas. Cuando hay dos juntos, el uno se ocupa de limpiarle las alas al otro.",
       "name": "Swellow"
     },
     "278": {
-      "description": "Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This Pokémon rides the winds and flies as if it were skating across the sky. ",
+      "description": "Wingull emerge del mar y asciende desplegando las largas y estrechas alas que posee. Este Pokémon tiene un pico largo que le resulta muy útil para pescar.",
       "name": "Wingull"
     },
     "279": {
-      "description": "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea. ",
+      "description": "Pelipper busca su comida mientras vuela y esquiva las crestas de las olas. Cuando localiza una presa, sumerge el largo pico en el agua para pescarla y se la traga de una vez.",
       "name": "Pelipper"
     },
     "280": {
-      "description": "Ralts senses the emotions of people using the horns on its head. This Pokémon rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition. ",
+      "description": "Ralts tiene la habilidad de percibir las sensaciones que tiene la gente. Si su Entrenador está alegre, este Pokémon se pondrá igualmente contento.",
       "name": "Ralts"
     },
     "281": {
-      "description": "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful. This Pokémon controls psychokinetic powers with its highly developed brain. ",
+      "description": "Kirlia usa los cuernos para amplificar los poderes de psicoquinesia que tiene. Cuando los usa, altera el ambiente, lo transforma y crea espejismos.",
       "name": "Kirlia"
     },
     "282": {
-      "description": "Gardevoir has the ability to read the future. If it senses impending danger to its Trainer, this Pokémon is said to unleash its psychokinetic energy at full power. ",
+      "description": "Gardevoir tiene el poder psicoquinético de alterar las dimensiones y crear un agujero negro pequeño. Este Pokémon intenta proteger siempre a su Entrenador aunque tenga que arriesgar su propia vida.",
       "name": "Gardevoir"
     },
     "283": {
-      "description": "From the tips of its feet, Surskit secretes an oil that enables it to walk on water as if it were skating. This Pokémon feeds on microscopic organisms in ponds and lakes. ",
+      "description": "Cuando Surskit siente que hay peligro, segrega un néctar espeso y dulce por la cabeza. Hay Pokémon a los que les encanta bebérselo.",
       "name": "Surskit"
     },
     "284": {
-      "description": "Masquerain intimidates enemies with the eyelike patterns on its antennas. This Pokémon flaps its four wings to freely fly in any direction—even sideways and backwards—as if it were a helicopter.",
+      "description": "Masquerain tiene unas antenas con ojos dibujados que le dan aspecto de estar enfadado. Si tiene los \"ojos\" medio cerrados y con aspecto triste, es probable que esté a punto de caer un buen aguacero.",
       "name": "Masquerain"
     },
     "285": {
-      "description": "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves. ",
+      "description": "Si Shroomish siente peligro, agita el cuerpo y libera esporas venenosas por la cabeza. Estas esporas son tan tóxicas que pueden hacer que se marchiten los árboles y hasta las malas hierbas.",
       "name": "Shroomish"
     },
     "286": {
-      "description": "Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pokémon's fighting technique puts boxers to shame. ",
+      "description": "Las semillas que Breloom tiene prendidas de la cola están formadas por sólidas esporas tóxicas. Comérselas puede resultar fatal. Hasta el más mínimo bocado puede hacerte polvo el estómago.",
       "name": "Breloom"
     },
     "287": {
-      "description": "Slakoth lolls around for over 20 hours every day. Because it moves so little, it does not need much food. This Pokémon's sole daily meal consists of just three leaves. ",
+      "description": "A Slakoth le late el corazón una vez por minuto. Ya puede pasar lo que pase, que este Pokémon no mueve un dedo. Está todo el día holgazaneando. Es muy raro verlo en movimiento.",
       "name": "Slakoth"
     },
     "288": {
-      "description": "Vigoroth is always itching and agitated to go on a wild rampage. It simply can't tolerate sitting still for even a minute. This Pokémon's stress level rises if it can't be moving constantly. ",
+      "description": "A Vigoroth le resulta totalmente imposible estarse quieto. Cuando intenta dormir, la sangre le fluye a velocidad de vértigo y se pone a correr por el bosque de un lado a otro hasta que se calma.",
       "name": "Vigoroth"
     },
     "289": {
-      "description": "Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pokémon reluctantly moves to another spot. ",
+      "description": "Cuando Slaking se instala a vivir en una zona, aparecen círculos de un metro de radio de terreno baldío, pues se come todo el césped que pilla mientras está tumbado boca abajo.",
       "name": "Slaking"
     },
     "290": {
-      "description": "Nincada lives underground for many years in complete darkness. This Pokémon absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution. ",
+      "description": "Nincada vive bajo tierra y usa las garras afiladas que tiene para escarbar y buscar raíces de árboles y absorber humedad y nutrientes. Este Pokémon huye de la luz del sol porque le hace daño.",
       "name": "Nincada"
     },
     "291": {
-      "description": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible. ",
+      "description": "Si Ninjask no recibe un entrenamiento adecuado, desobedece a su Entrenador y empieza a dar zumbidos sin parar. Por ello, se dice que pone a prueba las habilidades de su Entrenador.",
       "name": "Ninjask"
     },
     "292": {
-      "description": "Shedinja's hard body doesn't move—not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this Pokémon will steal the spirit of anyone peering into its hollow body from its back. ",
+      "description": "Shedinja es un Pokémon peculiar. Según parece, surge por las buenas en una Poké Ball cuando Nincada evoluciona. Este raro Pokémon no se mueve nada; ni siquiera respira.",
       "name": "Shedinja"
     },
     "293": {
-      "description": "Normally, Whismur's voice is very quiet—it is barely audible even if one is paying close attention. However, if this Pokémon senses danger, it starts crying at an earsplitting volume. ",
+      "description": "Whismur es muy tímido. Si empieza a gritar fuerte, se asusta a sí mismo y chilla más alto todavía. Cuando para por fin, se va a dormir completamente agotado.",
       "name": "Whismur"
     },
     "294": {
-      "description": "Loudred's bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This Pokémon's round ears serve as loudspeakers. ",
+      "description": "Loudred grita a la vez que da pisotones. Una vez que deja de chillar, se queda ensordecido durante un buen rato; lo que se considera su punto débil.",
       "name": "Loudred"
     },
     "295": {
-      "description": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it's a sign that it is preparing to let loose a huge bellow. ",
+      "description": "Exploud expresa sus sentimientos a los otros emitiendo una especie de silbidos a través de los tubos que tiene. Este Pokémon solo levanta la voz cuando está en combate.",
       "name": "Exploud"
     },
     "296": {
-      "description": "Makuhita is tenacious—it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this Pokémon stores more energy in its body for evolving. ",
+      "description": "Makuhita tiene un ánimo inagotable. Nunca pierde la esperanza. Come mucho, duerme bastante y se entrena de forma metódica. Siguiendo estos hábitos de vida, este Pokémon tiene siempre mucha energía.",
       "name": "Makuhita"
     },
     "297": {
-      "description": "Hariyama practices its straight-arm slaps in any number of locations. One hit of this Pokémon's powerful, openhanded, straight-arm punches could snap a telephone pole in two. ",
+      "description": "Puede que parezca que Hariyama está grueso, pero en realidad es una mole de puro músculo. Si este Pokémon hace fuerza y tensa la musculatura, se pone sólido como una roca.",
       "name": "Hariyama"
     },
     "298": {
-      "description": "Azurill spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these Pokémon managed to hurl itself a record 33 feet. ",
+      "description": "Azurill tiene una especie de pelota en la cola, que contiene los nutrientes necesarios para crecer. Es fácil ver a este Pokémon saltando y jugueteando sentado encima de la misma.",
       "name": "Azurill"
     },
     "299": {
-      "description": "Nosepass's magnetic nose is always pointed to the north. If two of these Pokémon meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
+      "description": "De Nosepass se llegó a decir que era totalmente estático; siempre con su nariz magnética orientada hacia el norte. Sin embargo, tras recientes estudios se ha visto que sí se mueve en realidad, apenas un centímetro al año.",
       "name": "Nosepass"
     },
     "300": {
-      "description": "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pokémon is known to chase after its own tail and become dizzy. ",
+      "description": "Skitty es conocido por la costumbre que tiene de juguetear y de intentar pillarse la cola. En estado salvaje, habita en las cavidades de los troncos de los árboles del bosque. Es la mascota de muchos por lo dulce que parece.",
       "name": "Skitty"
     },
     "301": {
-      "description": "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random.",
+      "description": "Delcatty duerme en cualquier lugar sin tener que mantener el nido en un mismo sitio. Si otro Pokémon se le acerca mientras duerme, no se pondrá a luchar con él; simplemente se irá a otro sitio.",
       "name": "Delcatty"
     },
     "302": {
-      "description": "Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pokémon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness. ",
+      "description": "Sableye cava en el suelo para buscar con las afiladas garras que tiene rocas para comer. Las sustancias que hay en las rocas que ingiere se solidifican y se le quedan en la piel.",
       "name": "Sableye"
     },
     "303": {
-      "description": "Mawile's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile chomps it with its gaping jaws. ",
+      "description": "No hay que dejarse engañar por el aspecto tierno de este Pokémon; es un verdadero peligro. Mawile engaña, así, a su rival. Primero, hace que baje la guardia y, después, despliega sus horribles fauces de acero, que antes eran cuernos.",
       "name": "Mawile"
     },
     "304": {
-      "description": "This Pokémon has a body of steel. To make its body, Aron feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails. ",
+      "description": "Aron tiene el cuerpo de acero. Con una carga hecha con toda la fuerza es capaz de demoler hasta un camión de basura y, a continuación, comérselo.",
       "name": "Aron"
     },
     "305": {
-      "description": "Lairon tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This Pokémon makes its nest close to springs of delicious water. ",
+      "description": "Lairon se alimenta del hierro que hay en las rocas y el agua. Hace su nido en las montañas, de donde se saca el hierro. Por eso, se encuentra muchas veces con las personas que están trabajando en las minas extrayéndolo.",
       "name": "Lairon"
     },
     "306": {
-      "description": "Aggron claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This Pokémon vigilantly patrols its territory at all times. ",
+      "description": "Aggron es increíblemente cuidadoso con su hábitat. Si su montaña sufre algún corrimiento de tierras o algún incendio, cargará con tierra nueva, plantará árboles y restaurará con cuidado el terreno.",
       "name": "Aggron"
     },
     "307": {
-      "description": "Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pokémon always loses its concentration and focus. As a result, its training never ends. ",
+      "description": "Meditite aumenta su energía interior mediante meditación. Para subsistir le basta con una baya al día. El comer poco entra dentro de su entrenamiento.",
       "name": "Meditite"
     },
     "308": {
-      "description": "It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pokémon hides its presence by merging itself with fields and mountains. ",
+      "description": "A través de la meditación, Medicham desarrolló su sexto sentido y aprendió a usar poderes psicoquinéticos. Se sabe que este Pokémon puede pasarse un mes meditando y sin comer.",
       "name": "Medicham"
     },
     "309": {
-      "description": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance. ",
+      "description": "Electrike corre tan rápido que escapa hasta al ojo humano. La fricción que se origina en la carrera se transforma en electricidad que almacena en el pelaje.",
       "name": "Electrike"
     },
     "310": {
-      "description": "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pokémon creates thunderclouds. ",
+      "description": "Manectric acumula en las melenas la electricidad que hay en el ambiente, y la descarga a través de ellas en grandes dosis. Este Pokémon crea nubarrones que se le quedan por encima de la cabeza.",
       "name": "Manectric"
     },
     "311": {
-      "description": "Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pokémon shorts out its body to create the crackling noises of sparks to show its joy. ",
+      "description": "Cuando Plusle está animando a su compañero, resplandece y provoca un chisporroteo que le rodea todo el cuerpo. Si su compañero pierde, se pone a chillar a voz en grito.",
       "name": "Plusle"
     },
     "312": {
-      "description": "Minun is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates. ",
+      "description": "Minun empieza a echar chispas cuando está animando a su compañero en pleno combate. Si su compañero está en peligro, el chisporroteo aumenta su intensidad por momentos.",
       "name": "Minun"
     },
     "313": {
-      "description": "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pokémon is attracted by the sweet aroma of Illumise. ",
+      "description": "La cola de Volbeat brilla como una bombilla. Ante otro de su grupo, la usa para dibujar formas geométricas en la oscuridad del cielo por la noche. Este Pokémon adora el dulce aroma que desprende Illumise.",
       "name": "Volbeat"
     },
     "314": {
-      "description": "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+      "description": "Illumise guía en el vuelo a un grupo de iluminados Volbeat para que hagan dibujos en el oscuro cielo. Según dicen, cuanto más complejos sean los dibujos, más le respetan los miembros de su grupo.",
       "name": "Illumise"
     },
     "315": {
-      "description": "Roselia shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this Pokémon brings serenity to living things. ",
+      "description": "Dicen que, en muy raras ocasiones, aparece un ejemplar de Roselia con las flores de colores muy poco comunes. Las espinas que este Pokémon tiene en la cabeza contienen un veneno extremadamente peligroso.",
       "name": "Roselia"
     },
     "316": {
-      "description": "Virtually all of Gulpin's body is its stomach. As a result, it can swallow something its own size. This Pokémon's stomach contains a special fluid that digests anything. ",
+      "description": "La mayor parte del cuerpo de Gulpin está ocupado por su estómago. En comparación, el corazón y el cerebro son muy pequeños. Este Pokémon tiene enzimas especiales en el estómago capaces de corroerlo todo.",
       "name": "Gulpin"
     },
     "317": {
-      "description": "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pokémon gulps it down whole with its cavernous mouth. ",
+      "description": "Swalot no tiene dientes, así que lo que come se lo traga de una vez; da igual lo que sea. A este Pokémon le cabría un neumático en la boca sin problema.",
       "name": "Swalot"
     },
     "318": {
-      "description": "Carvanha's strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pokémon. ",
+      "description": "Si algo o alguien invade el territorio de los Carvanha, se acercarán en masa y harán trizas al intruso con los afilados colmillos. Sin embargo, cuando están en solitario, estos Pokémon se vuelven tímidos de repente.",
       "name": "Carvanha"
     },
     "319": {
-      "description": "Nicknamed “the bully of the sea,“ Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
+      "description": "Sharpedo puede alcanzar nadando los 120 km/h agitando la aleta trasera y propulsándose por el agua. El punto flaco de este Pokémon es la imposibilidad que tiene de nadar largas distancias.",
       "name": "Sharpedo"
     },
     "320": {
-      "description": "Wailmer's nostrils are located above its eyes. This playful Pokémon loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils. ",
+      "description": "Wailmer puede almacenar agua dentro de su organismo para convertirse en una pelota y botar por tierra firme. Cuanta más agua trague, mayor altura alcanzará al saltar.",
       "name": "Wailmer"
     },
     "321": {
-      "description": "Wailord is the largest of all identified Pokémon up to now. This giant Pokémon swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth. ",
+      "description": "Wailord caza con otros miembros de su especie. Es espectacular ver cómo saltan y chapotean en el agua para agrupar a sus presas. Realmente impresiona ver cómo impactan contra el agua.",
       "name": "Wailord"
     },
     "322": {
-      "description": "Numel is extremely dull witted—it doesn't notice being hit. However, it can't stand hunger for even a second. This Pokémon's body is a seething cauldron of boiling magma. ",
+      "description": "Numel acumula en su interior un magma de 1200 °C. Si se moja, el magma se enfría y se solidifica. Cuando esto ocurre, aumenta su tamaño y se vuelve pesado y lento en sus movimientos.",
       "name": "Numel"
     },
     "323": {
-      "description": "Camerupt has a volcano inside its body. Magma of 18,000 degrees Fahrenheit courses through its body. Occasionally, the humps on this Pokémon's back erupt, spewing the superheated magma. ",
+      "description": "Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.",
       "name": "Camerupt"
     },
     "324": {
-      "description": "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pokémon spouts thick black smoke to beat a retreat. ",
+      "description": "Torkoal genera energía quemando carbón. A medida que se extingue el fuego, se va debilitando. Antes de entrar en combate, quema más carbón de lo habitual.",
       "name": "Torkoal"
     },
     "325": {
-      "description": "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing—if it stops, its heart will stop. ",
+      "description": "Spoink lleva una perla en la cabeza, que sirve para amplificar los poderes psicoquinéticos que tiene. Por eso, está continuamente buscando una perla mayor.",
       "name": "Spoink"
     },
     "326": {
-      "description": "Grumpig uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this Pokémon uses its special power, its snorting breath grows labored. ",
+      "description": "Grumpig utiliza las perlas negras que tiene para usar fantásticos poderes mientras baila de forma muy extraña. Las perlas de este Pokémon están consideradas como valiosas obras de arte.",
       "name": "Grumpig"
     },
     "327": {
-      "description": "All the Spinda that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this Pokémon give it the appearance of dancing. ",
+      "description": "No hay dos Spinda con los mismos dibujos en el pelaje. Este Pokémon se mueve de forma muy curiosa. Da la impresión de estar mareado. Se tambalea y puede llegar a causar confusión a su enemigo.",
       "name": "Spinda"
     },
     "328": {
-      "description": "Trapinch's nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders. ",
+      "description": "Trapinch es un cazador paciente. Suele cavar una fosa profunda en el desierto y esperar a que su presa caiga en ella. Este Pokémon puede aguantar toda una semana sin beber nada de agua.",
       "name": "Trapinch"
     },
     "329": {
-      "description": "To make prey faint, Vibrava generates ultrasonic waves by vigorously making its two wings vibrate. This Pokémon's ultrasonic waves are so powerful, they can bring on headaches in people.",
+      "description": "Vibrava no ha desarrollado las alas del todo. Más que para volar y recorrer largas distancias, le resultan útiles para generar ondas ultrasónicas al hacer que vibren.",
       "name": "Vibrava"
     },
     "330": {
-      "description": "Flygon is nicknamed “the elemental spirit of the desert.“ Because its flapping wings whip up a cloud of sand, this Pokémon is always enveloped in a sandstorm while flying. ",
+      "description": "Flygon puede provocar una tormenta de arena batiendo las alas. Estas, al ser agitadas, crean una melodía. Y, como las \"melodías\" pueden oírse cuando hay tormenta, dicen que es el espíritu del desierto.",
       "name": "Flygon"
     },
     "331": {
-      "description": "Cacnea lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this Pokémon shoots sharp thorns from its body to bring the victim down. ",
+      "description": "Cuanto más árido y hostil sea el hábitat de Cacnea, más bonita y aromática será la flor que le crece. Este Pokémon lucha agitando violentamente los brazos cargados de pinchos que tiene.",
       "name": "Cacnea"
     },
     "332": {
-      "description": "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops. ",
+      "description": "Cuando alguien se adentra en un desierto por la noche, Cacturne le sigue junto con varios de los suyos. Este Pokémon espera pacientemente a que el viajero se fatigue y no pueda continuar más, vencido por el cansancio.",
       "name": "Cacturne"
     },
     "333": {
-      "description": "Swablu has light and fluffy wings that are like cottony clouds. This Pokémon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat. ",
+      "description": "A Swablu le encanta limpiarlo todo. Si ve algo sucio, lo dejará como nuevo y reluciente con las alas de algodón que tiene. Cuando se le ensucian, busca un manantial y las limpia.",
       "name": "Swablu"
     },
     "334": {
-      "description": "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment. ",
+      "description": "Altaria canta de maravilla, como una soprano. Tiene unas alas que parecen nubes de algodón. Este Pokémon aprovecha las corrientes ascendentes y remonta el vuelo con sus flamantes alas hacia la inmensidad del cielo azul.",
       "name": "Altaria"
     },
     "335": {
-      "description": "Memories of battling its archrival Seviper are etched into every cell of Zangoose's body. This Pokémon adroitly dodges attacks with incredible agility. ",
+      "description": "Zangoose suele caminar a cuatro patas, pero cuando se enfada se pone de pie sobre las traseras y saca las zarpas. Este Pokémon tiene desde hace varias generaciones una áspera rivalidad con Seviper.",
       "name": "Zangoose"
     },
     "336": {
-      "description": "Seviper shares a generations-long feud with Zangoose. The scars on its body are evidence of vicious battles. This Pokémon attacks using its sword-edged tail. ",
+      "description": "Seviper tiene una cola que parece una espada y le sirve para dar un sablazo al enemigo y para envenenarlo. Este Pokémon se mantiene firme en la enemistad que siente hacia Zangoose.",
       "name": "Seviper"
     },
     "337": {
-      "description": "Lunatone was discovered at a location where a meteoroid fell. As a result, some people theorize that this Pokémon came from space. However, no one has been able to prove this theory so far. ",
+      "description": "Lunatone entra en actividad en épocas de luna llena más o menos. No camina, se desplaza flotando por el aire. Tiene unos ojos rojos sobrecogedores que cortan la respiración a todo aquel que los ve.",
       "name": "Lunatone"
     },
     "338": {
-      "description": "Solrock is a new species of Pokémon that is said to have fallen from space. It floats in air and moves silently. In battle, this Pokémon releases intensely bright light. ",
+      "description": "La fuente de energía de Solrock es la luz del sol. Dicen que tiene la habilidad de leer la mente de los demás. Al rotar, libera mucho calor.",
       "name": "Solrock"
     },
     "339": {
-      "description": "Barboach's sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along. ",
+      "description": "Barboach está completamente recubierto por una película viscosa. Si lo atrapan, puede escurrirse fácilmente. Si se le seca la capa viscosa, este Pokémon se debilitará.",
       "name": "Barboach"
     },
     "340": {
-      "description": "Whiscash is extremely territorial. Just one of these Pokémon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake. ",
+      "description": "Si Whiscash entra en estado de cólera salvaje, provoca un temblor sísmico de un radio de 5 km. Este Pokémon tiene la habilidad de predecir terremotos de verdad.",
       "name": "Whiscash"
     },
     "341": {
-      "description": "Corphish were originally foreign Pokémon that were imported as pets. They eventually turned up in the wild. This Pokémon is very hardy and has greatly increased its population. ",
+      "description": "Corphish atrapa a su presa con finas pinzas. En lo referente a comida no es delicado; se come lo que sea. Tampoco tiene ningún problema en vivir en aguas sucias.",
       "name": "Corphish"
     },
     "342": {
-      "description": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places. ",
+      "description": "Crawdaunt muda el caparazón regularmente y, en cuanto lo hace, se le queda la piel tersa y suave. Mientras el nuevo caparazón se endurece, permanece escondido en su madriguera para que no le ataquen.",
       "name": "Crawdaunt"
     },
     "343": {
-      "description": "Baltoy moves while spinning around on its one foot. Primitive wall paintings depicting this Pokémon living among people were discovered in some ancient ruins. ",
+      "description": "Al ver a más de los suyos, Baltoy se une al grupo y todos se ponen a chillar escandalosamente y al unísono. Este Pokémon duerme manteniendo hábilmente el equilibrio sobre la extremidad inferior que tiene.",
       "name": "Baltoy"
     },
     "344": {
-      "description": "Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pokémon moves about while levitating. ",
+      "description": "Claydol es un enigma, una figura de barro procedente de una civilización antigua de hace más de 20 000 años. Este Pokémon dispara rayos por las manos.",
       "name": "Claydol"
     },
     "345": {
-      "description": "Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals. ",
+      "description": "Lileep es un Pokémon antiguo que se regeneró a partir de un fósil. Siempre está anclado a una roca. Desde su percha inmóvil está al acecho y pendiente de que no se le escape su presa.",
       "name": "Lileep"
     },
     "346": {
-      "description": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles. ",
+      "description": "A Cradily le sirve el cuerpo de ancla y sostén en aguas turbulentas. Gracias a él no es arrastrado por las corrientes. Este Pokémon segrega un fuerte jugo digestivo a través de los tentáculos.",
       "name": "Cradily"
     },
     "347": {
-      "description": "Anorith was regenerated from a prehistoric fossil. This primitive Pokémon once lived in warm seas. It grips its prey firmly between its two large claws.",
+      "description": "De Anorith dicen que es una especie de Pokémon predecesor. Tiene ocho alas a ambos lados del cuerpo. Gracias a ellas, pudo nadar por las primeras aguas que hubo.",
       "name": "Anorith"
     },
     "348": {
-      "description": "Armaldo's tough armor makes all attacks bounce off. This Pokémon's two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab. ",
+      "description": "Armaldo es una de las especies de Pokémon que se extinguieron en la era prehistórica. Se cree que caminaban sobre las patas traseras; lo más apropiado para la vida en tierra firme.",
       "name": "Armaldo"
     },
     "349": {
-      "description": "Feebas's fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers. ",
+      "description": "Aunque Feebas tenga el cuerpo mellado, posee una tremenda y constante fuerza vital que le permite vivir en cualquier lugar. Con todo, es un Pokémon lento y simplón; es fácil de atrapar.",
       "name": "Feebas"
     },
     "350": {
-      "description": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding. ",
+      "description": "Milotic vive en lo más profundo de los lagos. Cuando intensifica el color rosa de la piel, libera una fuerte onda de energía que tranquiliza a todo el que tenga el ánimo alterado.",
       "name": "Milotic"
     },
     "351": {
-      "description": "Castform's appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body. ",
+      "description": "Castform se vale del poder de la naturaleza para tomar el aspecto del sol, la lluvia o nubarrones de nieve. El estado de ánimo de este Pokémon varía según el clima.",
       "name": "Castform"
     },
     "352": {
-      "description": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception—this Pokémon can't change the zigzag pattern on its belly. ",
+      "description": "Kecleon modifica la coloración de la piel para camuflarse en el medio en el que esté. Así, puede acercarse a hurtadillas a su enemigo sin que se dé cuenta y lanzarle la larga y elástica lengua que tiene para atraparlo por sorpresa.",
       "name": "Kecleon"
     },
     "353": {
-      "description": "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pokémon will appear in a swarm and line up beneath the eaves of that person's home. ",
+      "description": "Shuppet crece alimentándose de sentimientos negativos, como el rencor y la envidia, que nacen en el corazón de las personas. Se dedica a vagar por las ciudades en busca del rencor que contamina a la gente.",
       "name": "Shuppet"
     },
     "354": {
-      "description": "Banette generates energy for laying strong curses by sticking pins into its own body. This Pokémon was originally a pitiful plush doll that was thrown away. ",
+      "description": "Fue un hechizo el que hizo que el relleno de este muñeco de felpa olvidado y abandonado pasara a ser Banette. Si este Pokémon abriera la boca, se quedaría sin energía.",
       "name": "Banette"
     },
     "355": {
-      "description": "Duskull can pass through any wall no matter how thick it may be. Once this Pokémon chooses a target, it will doggedly pursue the intended victim until the break of dawn. ",
+      "description": "Duskull vaga perdido por la oscuridad de la noche. Cuando los niños se portan mal y desobedecen a sus padres, se les dice que este Pokémon aparecerá y se los llevará con él.",
       "name": "Duskull"
     },
     "356": {
-      "description": "Dusclops's body is completely hollow—there is nothing at all inside. It is said that its body is like a black hole. This Pokémon will absorb anything into its body, but nothing will ever come back out. ",
+      "description": "Dusclops absorbe todo lo que pilla, al margen del tamaño que tenga. Este Pokémon hipnotiza a su rival moviendo las manos de forma macabra y usando el ojo de manera implacable. Una vez hipnotizado, el enemigo obedecerá.",
       "name": "Dusclops"
     },
     "357": {
-      "description": "The bunches of fruit around Tropius's neck are very popular with children. This Pokémon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit. ",
+      "description": "Los niños de la zona sur de los trópicos se comen los racimos de fruta que le crecen a Tropius alrededor del cuello. Este Pokémon vuela batiendo las hojas que tiene en el lomo como si fueran alas.",
       "name": "Tropius"
     },
     "358": {
-      "description": "Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying. ",
+      "description": "Cuando hay viento fuerte, Chimecho chilla colgado de la rama de un árbol o de los aleros de un edificio por la ventosa que tiene en la cabeza. Este Pokémon usa la larga cola que tiene para agarrar bayas y comérselas.",
       "name": "Chimecho"
     },
     "359": {
-      "description": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon. ",
+      "description": "Absol tiene la habilidad de predecir las catástrofes naturales. Este Pokémon vive en hábitats montañosos, hostiles y accidentados de los que rara vez se aleja.",
       "name": "Absol"
     },
     "360": {
-      "description": "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pokémon will be slapping the ground with its tail. ",
+      "description": "Los Wynaut se agrupan cuando hay luna para jugar achuchándose unos a otros. Cuanto más se achuchan, más ganan en resistencia y lanzan fuertes contraataques con más facilidad.",
       "name": "Wynaut"
     },
     "361": {
-      "description": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns. ",
+      "description": "Snorunt sobrevive alimentándose solo de nieve y hielo. Se dice que la casa por la que pase este Pokémon estará llena de prosperidad durante generaciones.",
       "name": "Snorunt"
     },
     "362": {
-      "description": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires. ",
+      "description": "Glalie tiene la habilidad de controlar el hielo con total libertad. Por ejemplo, puede dejar a su presa totalmente congelada en un instante. Y, una vez helada, la devora lentamente.",
       "name": "Glalie"
     },
     "363": {
-      "description": "Spheal is much faster rolling than walking to get around. When groups of this Pokémon eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy. ",
+      "description": "Spheal se desplaza siempre rodando gracias al cuerpo esférico que tiene. Al comenzar la época glacial, es fácil verle rodando por superficies heladas y atravesando el mar.",
       "name": "Spheal"
     },
     "364": {
-      "description": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose. ",
+      "description": "Sealeo suele balancear y hacer rodar cosas en la punta del morro. Al mismo tiempo, aprovecha para olerlas y detectar la textura que tienen para ver si le gustan o no.",
       "name": "Sealeo"
     },
     "365": {
-      "description": "Walrein's two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pokémon's thick coat of blubber insulates it from subzero temperatures. ",
+      "description": "Walrein va nadando por mares glaciales y destrozando icebergs con los enormes e imponentes colmillos que tiene. La gruesa capa de grasa que tiene en el cuerpo hace que los ataques enemigos reboten y no le hagan ningún daño.",
       "name": "Walrein"
     },
     "366": {
-      "description": "Clamperl's sturdy shell is not only good for protection—it is also used for clamping and catching prey. A fully grown Clamperl's shell will be scored with nicks and scratches all over. ",
+      "description": "Clamperl crece protegido por la sólida concha que tiene. Si vemos que el cuerpo no le cabe, será porque está a punto de evolucionar.",
       "name": "Clamperl"
     },
     "367": {
-      "description": "Huntail's presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This Pokémon's eyes can see clearly even in the murky dark depths of the ocean. ",
+      "description": "Huntail tiene una cola en forma de pez, que usa para atraer a su presa. Una vez que la tiene cerca, la engulle sin más. Este Pokémon nada haciendo serpentear el cuerpo como si fuera un reptil.",
       "name": "Huntail"
     },
     "368": {
-      "description": "Gorebyss lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this Pokémon's body is unharmed by ordinary attacks. ",
+      "description": "Aunque Gorebyss es la imagen de la elegancia y la belleza al nadar, es también la definición de la crueldad. Al detectar a su presa, este Pokémon le hinca los finos dientes que tiene y le absorbe los fluidos corporales.",
       "name": "Gorebyss"
     },
     "369": {
-      "description": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth. ",
+      "description": "Relicanth pertenece a una rara especie descubierta al explorar el fondo marino. Es grande y está cubierto de toscas y duras escamas, con las que puede soportar la presión del fondo oceánico.",
       "name": "Relicanth"
     },
     "370": {
-      "description": "Luvdisc live in shallow seas in the tropics. This heart-shaped Pokémon earned its name by swimming after loving couples it spotted in the ocean's waves. ",
+      "description": "Luvdisc tiene forma de corazón y simboliza el amor y el romanticismo. Dicen que la pareja que se encuentre con él mantendrá una relación de amor de por vida.",
       "name": "Luvdisc"
     },
     "371": {
-      "description": "Bagon has a dream of one day soaring in the sky. In doomed efforts to fly, this Pokémon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel. ",
+      "description": "Bagon sueña siempre con lo mismo: pasar todo un día volando entre las nubes. Frustrado ante la imposibilidad de volar, parece que se desahoga dándose cabezazos contra rocas enormes hasta hacerlas añicos.",
       "name": "Bagon"
     },
     "372": {
-      "description": "Inside Shelgon's armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pokémon's shell is extremely heavy, making its movements sluggish. ",
+      "description": "Shelgon está recubierto por una especie de capa ósea: una coraza muy dura que hace rebotar los ataques enemigos. Este Pokémon se esconde en las cavernas para evolucionar.",
       "name": "Shelgon"
     },
     "373": {
-      "description": "Salamence came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this Pokémon's cells, causing it to sprout its magnificent wings. ",
+      "description": "Al evolucionar Shelgon y convertirse por fin en Salamence, ve cumplido el sueño de su vida de tener alas. Para expresar su alegría, Salamence vuela y revolotea por el cielo al tiempo que lanza llamas por la boca.",
       "name": "Salamence"
     },
     "374": {
-      "description": "Instead of blood, a powerful magnetic force courses throughout Beldum's body. This Pokémon communicates with others by sending controlled pulses of magnetism. ",
+      "description": "Beldum se mantiene flotando en el aire gracias a la fuerza magnética que genera y que repele la gravedad. Para dormir, este Pokémon se ancla a los riscos usando los ganchos que tiene.",
       "name": "Beldum"
     },
     "375": {
-      "description": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. By linking its brains magnetically, this Pokémon generates strong psychokinetic power. ",
+      "description": "Cuando se funden dos Beldum, uniendo los cerebros por un sistema nervioso magnético, se forma un Metang. Para desplazarse a mayor velocidad, este Pokémon echa los brazos hacia atrás.",
       "name": "Metang"
     },
     "376": {
-      "description": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs. ",
+      "description": "Metagross es el resultado de la fusión de dos Metang. Cuando caza, acorrala a su presa, sujetándola contra el suelo con el cuerpo. Después, devora a la víctima indefensa con la gran boca del estómago.",
       "name": "Metagross"
     },
     "377": {
-      "description": "Regirock was sealed away by people long ago. If this Pokémon's body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",
+      "description": "Regirock está formado en su totalidad por piedras. En un estudio reciente, se descubrió que cada una de las piedras había sido desenterrada en sitios distintos.",
       "name": "Regirock"
     },
     "378": {
-      "description": "Regice's body was made during an ice age. The deep-frozen body can't be melted, even by fire. This Pokémon controls frigid air of -328 degrees Fahrenheit. ",
+      "description": "Regice se rodea de un aire gélido que llega a -200 °C y deja congelado a todo lo que se le acerca. Es imposible derretir a este Pokémon; tiene una temperatura demasiado baja.",
       "name": "Regice"
     },
     "379": {
-      "description": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats. ",
+      "description": "Hace mucho tiempo Registeel estuvo preso. La gente piensa que el metal del que está hecho es una curiosa sustancia extraterrestre.",
       "name": "Registeel"
     },
     "380": {
-      "description": "Latias is highly sensitive to the emotions of people. If it senses any hostility, this Pokémon ruffles the feathers all over its body and cries shrilly to intimidate the foe. ",
+      "description": "Latias tiene un nivel de inteligencia tan alto que es capaz de entender el lenguaje humano. Este Pokémon usa el plumón cristalizado del que está cubierto como peto para refractar la luz y cambiar de aspecto.",
       "name": "Latias"
     },
     "381": {
-      "description": "Latios has the ability to make others see an image of what it has seen or imagines in its head. This Pokémon is intelligent and understands human speech. ",
+      "description": "Latios solo le abre el corazón a los Entrenadores compasivos. A la hora de volar, este Pokémon pliega las patas delanteras para minimizar la resistencia al aire y supera en velocidad a un avión a reacción.",
       "name": "Latios"
     },
     "382": {
-      "description": "Through Primal Reversion and with nature's full power, it will take back its true form. It can summon storms that cause the sea levels to rise. ",
+      "description": "A Kyogre siempre se le ha descrito como el Pokémon que expandió los océanos. Varias leyendas cuentan que libró combates contra Groudon en repetidas ocasiones para tener el control de la energía de la naturaleza.",
       "name": "Kyogre"
     },
     "383": {
-      "description": "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
+      "description": "Groudon se sirve de la energía de la naturaleza para realizar su Regresión Primigenia y recobrar su apariencia primitiva. Con tal poder, puede crear magma para expandir los continentes.",
       "name": "Groudon"
     },
 	"384": {
-      "description": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon. ",
+      "description": "Rayquaza ha vivido en la capa de ozono durante millones de años, alimentándose de meteoritos. La energía de estos meteoritos se acumula en su cuerpo y le permite megaevolucionar.",
       "name": "Rayquaza"
     },
 	"385": {
-      "description": "A legend states that Jirachi will make true any wish that is written on notes attached to its head when it awakens. If this Pokémon senses danger, it will fight without awakening. ",
+      "description": "Jirachi despertará de su letargo de miles de años si se le canta con una voz pura. Dicen que este Pokémon hace realidad cualquier deseo que se tenga.",
       "name": "Jirachi"
     },
     "386": {
-      "description": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain. ",
+      "description": "Deoxys surgió a partir de un virus espacial. Tiene un alto nivel intelectual y poderes psicoquinéticos. Este Pokémon dispara rayos láser por el órgano cristalino que tiene en el torso.",
       "name": "Deoxys"
     },
     "387": {
@@ -3211,160 +3211,160 @@
   },
   "quick_moves": {
     "?": "?",
-    "Acid": "Acid",
-    "Air Slash": "Air Slash",
-    "Bite": "Bite",
-    "Bubble": "Bubble",
-    "Bug Bite": "Bug Bite",
-    "Bullet Punch": "Bullet Punch",
-    "Bullet Seed": "Bullet Seed",
-    "Charge Beam": "Charge Beam",
-    "Confusion": "Confusion",
-    "Counter": "Counter",
-    "Cut": "Cut",
-    "Dragon Breath": "Dragon Breath",
-    "Dragon Tail": "Dragon Tail",
-    "Ember": "Ember",
-    "Extrasensory": "Extrasensory",
-    "Feint Attack": "Feint Attack",
-    "Fire Fang": "Fire Fang",
-    "Fire Spin": "Fire Spin",
-    "Frost Breath": "Frost Breath",
-    "Fury Cutter": "Fury Cutter",
-    "Hex": "Hex",
-    "Hidden Power": "Hidden Power",
-    "Ice Shard": "Ice Shard",
-    "Infestation": "Infestation",
-    "Iron Tail": "Iron Tail",
-    "Lick": "Lick",
-    "Low Kick": "Low Kick",
-    "Mud Shot": "Mud Shot",
-    "Mud Slap": "Mud Slap",
-    "Peck": "Peck",
-    "Poison Jab": "Poison Jab",
-    "Poison Sting": "Poison Sting",
-    "Pound": "Pound",
-    "Powder Snow": "Powder Snow",
-    "Psycho Cut": "Psycho Cut",
-    "Quick Attack": "Quick Attack",
-    "Razor Leaf": "Razor Leaf",
-    "Rock Smash": "Rock Smash",
-    "Rock Throw": "Rock Throw",
-    "Scratch": "Scratch",
-    "Shadow Claw": "Shadow Claw",
-    "Snarl": "Snarl",
-    "Spark": "Spark",
-    "Splash": "Splash",
-    "Steel Wing": "Steel Wing",
-    "Tackle": "Tackle",
-    "Thunder Shock": "Thunder Shock",
-    "Transform": "Transform",
-    "Vine Whip": "Vine Whip",
-    "Water Gun": "Water Gun",
-    "Wing Attack": "Wing Attack",
-    "Zen Headbutt": "Zen Headbutt",
-    "Take Down": "Take Down",
-    "Yawn": "Yawn",
-    "Waterfall": "Waterfall"
+    "Acid": "Ácido",
+    "Air Slash": "Tajo aéreo",
+    "Bite": "Mordisco",
+    "Bubble": "Burbuja",
+    "Bug Bite": "Picadura",
+    "Bullet Punch": "Puño bala",
+    "Bullet Seed": "Recurrente",
+    "Charge Beam": "Rayo carga",
+    "Confusion": "Confusión",
+    "Counter": "Contraataque",
+    "Cut": "Corte",
+    "Dragon Breath": "Dragoaliento",
+    "Dragon Tail": "Cola dragón",
+    "Ember": "Ascuas",
+    "Extrasensory": "Paranormal",
+    "Feint Attack": "Finta",
+    "Fire Fang": "Colmillo ígneo",
+    "Fire Spin": "Giro fuego",
+    "Frost Breath": "Vaho gélido",
+    "Fury Cutter": "Cortefuria",
+    "Hex": "Infortunio",
+    "Hidden Power": "Poder oculto",
+    "Ice Shard": "Canto helado",
+    "Infestation": "Acoso",
+    "Iron Tail": "Cola férrea",
+    "Lick": "Lengüetazo",
+    "Low Kick": "Patada baja",
+    "Mud Shot": "Disparo lodo",
+    "Mud Slap": "Bofetón lodo",
+    "Peck": "Picotazo",
+    "Poison Jab": "Puya nociva",
+    "Poison Sting": "Picotazo venenoso",
+    "Pound": "Destructor",
+    "Powder Snow": "Nieve polvo",
+    "Psycho Cut": "Psicocorte",
+    "Quick Attack": "Ataque rápido",
+    "Razor Leaf": "Hoja afilada",
+    "Rock Smash": "Golpe roca",
+    "Rock Throw": "Lanzarrocas",
+    "Scratch": "Arañazo",
+    "Shadow Claw": "Garra umbría",
+    "Snarl": "Alarido",
+    "Spark": "Chispa",
+    "Splash": "Salpicadura",
+    "Steel Wing": "Ala de acero",
+    "Tackle": "Placaje",
+    "Thunder Shock": "Impactrueno",
+    "Transform": "Transformación",
+    "Vine Whip": "Látigo cepa",
+    "Water Gun": "Pistola Agua",
+    "Wing Attack": "Ataque ala",
+    "Zen Headbutt": "Cabezazo zen",
+    "Take Down": "Derribo",
+    "Yawn": "Bostezo",
+    "Waterfall": "Cascada"
   },
   "charge_moves": {
     "?": "?",
-    "Aerial Ace": "Aerial Ace",
-    "Aqua Jet": "Aqua Jet",
-    "Aqua Tail": "Aqua Tail",
-    "Avalanche": "Avalanche",
-    "Blizzard": "Blizzard",
-    "Body Slam": "Body Slam",
-    "Bone Club": "Bone Club",
-    "Brick Break": "Brick Break",
-    "Brine": "Brine",
-    "Bug Buzz": "Bug Buzz",
-    "Bulldoze": "Bulldoze",
-    "Close Combat": "Close Combat",
-    "Cross Chop": "Cross Chop",
-    "Crunch": "Crunch",
-    "Dark Pulse": "Dark Pulse",
-    "Dazzling Gleam": "Dazzling Gleam",
-    "Dig": "Dig",
-    "Discharge": "Discharge",
-    "Dragon Pulse": "Dragon Pulse",
-    "Drill Peck": "Drill Peck",
-    "Drill Run": "Drill Run",
-    "Dynamic Punch": "Dynamic Punch",
-    "Earthquake": "Earthquake",
-    "Fire Blast": "Fire Blast",
-    "Flame Burst": "Flame Burst",
-    "Flamethrower": "Flamethrower",
-    "Flash Cannon": "Flash Cannon",
-    "Foul Play": "Foul Play",
-    "Future Sight": "Future Sight",
-    "Grass Knot": "Grass Knot",
-    "Gunk Shot": "Gunk Shot",
-    "Gyro Ball": "Gyro Ball",
-    "Heavy Slam": "Heavy Slam",
-    "Hurricane": "Hurricane",
-    "Hydro Pump": "Hydro Pump",
-    "Hyper Beam": "Hyper Beam",
-    "Ice Beam": "Ice Beam",
-    "Ice Punch": "Ice Punch",
-    "Iron Head": "Iron Head",
-    "Leaf Blade": "Leaf Blade",
-    "Megahorn": "Megahorn",
-    "Mirror Coat": "Mirror Coat",
-    "Moonblast": "Moonblast",
-    "Mud Bomb": "Mud Bomb",
-    "Ominous Wind": "Ominous Wind",
-    "Outrage": "Outrage",
-    "Overheat": "Overheat",
-    "Petal Blizzard": "Petal Blizzard",
-    "Play Rough": "Play Rough",
-    "Poison Fang": "Poison Fang",
-    "Power Gem": "Power Gem",
-    "Psychic": "Psychic",
-    "Psyshock": "Psyshock",
-    "Rock Slide": "Rock Slide",
-    "Scald": "Scald",
-    "Seed Bomb": "Seed Bomb",
-    "Shadow Ball": "Shadow Ball",
-    "Signal Beam": "Signal Beam",
-    "Sky Attack": "Sky Attack",
-    "Sludge Bomb": "Sludge Bomb",
-    "Solar Beam": "Solar Beam",
-    "Stomp": "Stomp",
-    "Stone Edge": "Stone Edge",
-    "Struggle": "Struggle",
-    "Swift": "Swift",
-    "Thunder": "Thunder",
-    "Thunderbolt": "Thunderbolt",
-    "Water Pulse": "Water Pulse",
-    "Wild Charge": "Wild Charge",
-    "X-Scissor": "X-Scissor",
-    "Zap Cannon": "Zap Cannon",
-    "Precipice Blades": "Precipice Blades",
-    "Origin Pulse": "Origin Pulse",
-    "Doom Desire": "Doom Desire",
-    "Draco Meteor": "Draco Meteor",
-    "Psycho Boost": "Psycho Boost",
+    "Aerial Ace": "Golpe aéreo",
+    "Aqua Jet": "Acua jet",
+    "Aqua Tail": "Acua cola",
+    "Avalanche": "Alud",
+    "Blizzard": "Ventisca",
+    "Body Slam": "Golpe cuerpo",
+    "Bone Club": "Hueso palo",
+    "Brick Break": "Demolición",
+    "Brine": "Salmuera",
+    "Bug Buzz": "Zumbido",
+    "Bulldoze": "Terratemblor",
+    "Close Combat": "A bocajarro",
+    "Cross Chop": "Tajo cruzado",
+    "Crunch": "Triturar",
+    "Dark Pulse": "Pulso umbrío",
+    "Dazzling Gleam": "Brillo mágico",
+    "Dig": "Excavar",
+    "Discharge": "Chispazo",
+    "Dragon Pulse": "Pulso dragón",
+    "Drill Peck": "Pico taladro",
+    "Drill Run": "Taladradora",
+    "Dynamic Punch": "Puño dinámico",
+    "Earthquake": "Terremoto",
+    "Fire Blast": "Llamarada",
+    "Flame Burst": "Pirotecnia",
+    "Flamethrower": "Lanzallamas",
+    "Flash Cannon": "Foco resplandor",
+    "Foul Play": "Juego sucio",
+    "Future Sight": "Premonición",
+    "Grass Knot": "Hierba lazo",
+    "Gunk Shot": "Lanza mugre",
+    "Gyro Ball": "Giro bola",
+    "Heavy Slam": "Cuerpo pesado",
+    "Hurricane": "Vendaval",
+    "Hydro Pump": "Hidrobomba",
+    "Hyper Beam": "Hiperrayo",
+    "Ice Beam": "Rayo hielo",
+    "Ice Punch": "Puño hielo",
+    "Iron Head": "Cabeza de hierro",
+    "Leaf Blade": "Hoja aguda",
+    "Megahorn": "Megacuerno",
+    "Mirror Coat": "Manto espejo",
+    "Moonblast": "Fuerza lunar",
+    "Mud Bomb": "Bomba fango",
+    "Ominous Wind": "Viento aciago",
+    "Outrage": "Enfado",
+    "Overheat": "Sofoco",
+    "Petal Blizzard": "Tormenta floral",
+    "Play Rough": "Carantoña",
+    "Poison Fang": "Colmillo veneno",
+    "Power Gem": "Joya de luz",
+    "Psychic": "Psíquico",
+    "Psyshock": "Psicocarga",
+    "Rock Slide": "Avalancha",
+    "Scald": "Escaldar",
+    "Seed Bomb": "Bomba germen",
+    "Shadow Ball": "Bola sombra",
+    "Signal Beam": "Doble rayo",
+    "Sky Attack": "Ataque aéreo",
+    "Sludge Bomb": "Bomba lodo",
+    "Solar Beam": "Rayo solar",
+    "Stomp": "Pisotón",
+    "Stone Edge": "Roca afilada",
+    "Struggle": "Combate",
+    "Swift": "Rapidez",
+    "Thunder": "Trueno",
+    "Thunderbolt": "Rayo",
+    "Water Pulse": "Hidropulso",
+    "Wild Charge": "Voltio cruel",
+    "X-Scissor": "Tijera X",
+    "Zap Cannon": "Electrocañón",
+    "Precipice Blades": "Filo del abismo",
+    "Origin Pulse": "Pulso primigenio",
+    "Doom Desire": "Deseo oculto",
+    "Draco Meteor": "Cometa Draco",
+    "Psycho Boost": "Psicoataque",
     "Surf": "Surf"
   },
   "types": {
-    "Bug": "Bug",
-    "Dark": "Dark",
-    "Dragon": "Dragon",
-    "Electric": "Electric",
-    "Fairy": "Fairy",
-    "Fighting": "Fighting",
-    "Fire": "Fire",
-    "Flying": "Flying",
-    "Ghost": "Ghost",
-    "Grass": "Grass",
-    "Ground": "Ground",
-    "Ice": "Ice",
+    "Bug": "Bicho",
+    "Dark": "Siniestro",
+    "Dragon": "Dragón",
+    "Electric": "Eléctrico",
+    "Fairy": "Hada",
+    "Fighting": "Lucha",
+    "Fire": "Fuego",
+    "Flying": "Volador",
+    "Ghost": "Fantasma",
+    "Grass": "Planta",
+    "Ground": "Tierra",
+    "Ice": "Hielo",
     "Normal": "Normal",
-    "Poison": "Poison",
-    "Psychic": "Psychic",
-    "Rock": "Rock",
-    "Steel": "Steel",
-    "Water": "Water"
+    "Poison": "Veneno",
+    "Psychic": "Psíquico",
+    "Rock": "Roca",
+    "Steel": "Acero",
+    "Water": "Agua"
   }
 }
